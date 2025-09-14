@@ -1,0 +1,951 @@
+{
+  "selectLanguage": "Select Language",
+  "Project": {
+    "Project_Title": "Our Global Logistics Projects",
+    "Project_Description": "Partner with us for your logistics needs and experience seamless transportation solutions.",
+    "Turkmenistan": "Turkmenistan",
+    "Turkey": "Turkey",
+    "Russia": "Russia",
+    "Kazakhstan": "Kazakhstan",
+    "Afghanistan": "Afghanistan",
+    "China": "China",
+    "UAE": "UAE"
+  },
+  "Navbar": {
+    "brand": {
+      "name": "Amanullah Transport & Logistics"
+    },
+    "routes": {
+      "home": "Home",
+      "services": "Services",
+      "project": "Project",
+      "about": "About Us",
+      "contact": "Contact Us",
+      "quote": "Get a Quote",
+      "airFreight": "Air Freight Service",
+      "seaFreight": "Sea Freight Service",
+      "projectLogistics": "Project Logistics",
+      "overlandTransportation": "Overland Transportation Service",
+      "warehousingLogistics": "Warehousing Logistics Service",
+      "customsBrokerage": "Customs Brokerage Service",
+      "shipAgency": "Ship Agency Service",
+      "lashingPacking": "Lashing & Packing Services",
+      "iorEorLogistics": "IOR EOR Logistics Service",
+      "valueAddedLogistics": "Value Added Logistics Service",
+      "integratedITSolutions": "Integrated IT System Solutions",
+      "dangerousGoods": "Dangerous Goods Storage And Transportation"
+    }
+  },
+  "AirFreight": {
+    "heroTitle": "Air Freight Services in Dubai, UAE",
+    "heroDescription": "Offering reliable and efficient air freight services across Dubai and the UAE, ensuring timely delivery and secure handling of your shipments. Trust us for seamless logistics solutions tailored to your needs.",
+    "section1": {
+      "title": "Air Freight Services in Dubai, UAE",
+      "description1": "From urgent packages to large cargo, we provide seamless air freight solutions for shipments worldwide. Our expert team and global network guarantee timely deliveries with complete tracking and transparent updates every step of the way. Trust us to handle all aspects of customs and final delivery efficiently.",
+      "description2": "We manage every aspect of your air freight needs—from direct shipments to consolidated loads, even hazardous materials. With our local expertise and international reach, we ensure your cargo moves smoothly across borders, backed by comprehensive tracking and efficient, reliable delivery solutions."
+    },
+    "section2": {
+      "title": "Transshipment (Sea to Air | Air to Air)",
+      "description": "The UAE serves as a vital transshipment hub, connecting global trade routes with seamless efficiency. Our robust network across the GCC, supported by road, air, and sea channels, ensures smooth transshipment of cargo bound for the Indian Subcontinent, CIS, Red Sea Ports, and Africa. Rely on us to leverage the UAE’s strategic location as a major sea-air transit point for swift and reliable delivery."
+    },
+    "section3": {
+      "title": "Air Freight & Cargo Services",
+      "description": "We recognize the importance of timely delivery for your shipments, which is why our air freight services in the UAE are designed to get your goods to their destination swiftly and securely. Our experienced team manages every detail with care—from handling all necessary documentation to overseeing the entire shipping process—ensuring your merchandise arrives safely and on time, every time."
+    },
+    "section4": {
+      "title": "The Highlights of Our Air Cargo Services Include",
+      "highlights": [
+        "Global Door-to-Door Delivery: Seamless transportation from the point of origin to the destination, with full tracking and monitoring.",
+        "Airport-to-Airport Services with Customs Clearance: Efficient handling of your air cargo, ensuring quick customs clearance at both ends.",
+        "Comprehensive Air Freight Solutions: End-to-end service for your supply chain, or customized point-to-point deliveries.",
+        "Charter Services: Flexible charter options, including full or split charters, for specialized cargo needs.",
+        "Expert Packing Services: Custom packaging solutions designed to meet airline regulations and ensure safe transport.",
+        "International Network of Trusted Agents: Access to a vast network of agents in key business hubs worldwide for efficient global operations."
+      ]
+    },
+    "imageAlt": "Air Freight"
+  },
+  "SeaFreight": {
+    "heroTitle": "Reliable Sea Freight Solutions in Dubai, UAE",
+    "heroDescription": "Efficient, cost-effective solutions for global shipments, from port to port.",
+    "section1": {
+      "title": "Reliable Ocean Freight Solutions in Dubai, UAE",
+      "description": "Ocean freight remains a cornerstone of global trade, offering dependable and cost-effective transportation for goods across continents. While air freight is ideal for urgent shipments, our sea freight services provide businesses and individuals with an economical solution tailored to their shipping needs. Trust us for seamless and efficient international logistics."
+    },
+    "section2": {
+      "title": "Comprehensive Global Shipping Solutions",
+      "description": "At Amanullah Transport & Logistics, we cater to all your transportation needs, whether it’s full container loads, hazardous materials, LCL shipments, or oversized project cargo. As an NVOCC and licensed forwarder, we ensure seamless delivery to and from any global destination. Our dedicated consolidation services guarantee timely and efficient shipments. Our experienced team supports a full range of documentation, including letters of credit, banking, insurance, and consular legalization, ensuring a hassle-free export process. For imports, we provide guidance on the latest UAE Customs regulations for smooth clearance and delivery."
+    },
+    "section3": {
+      "title": "Advanced Tracking and Global Expertise",
+      "description": "Amanullah Transport & Logistics uses an integrated track-and-trace system to monitor your orders, providing real-time updates and ensuring peace of mind. With our extensive global network of offices and qualified partners, we’re equipped to handle your logistics, regardless of where your goods originate or need to go."
+    },
+    "section4": {
+      "title": "Sea Freight Specialists Since 2005",
+      "highlights": [
+        "Over 20 years of freight forwarding expertise, delivering outstanding value and exceptional customer care.",
+        "Port-to-port LCL sea freight services connecting to 500+ international ports.",
+        "Free price comparison across various routes and vessels for optimal cost efficiency.",
+        "Simplified booking system with all-inclusive pricing up to the destination point.",
+        "Optional collection service from your preferred address for added convenience.",
+        "Expert assistance with shipping documentation and dedicated support throughout your shipment journey."
+      ]
+    },
+    "imageAlt": "Sea Freight"
+  },
+  "ProjectLogistics": {
+    "heroTitle": "Project Logistics Services with Expertise",
+    "heroDescription": "End-to-end project management, from consultation to on-site assembly.",
+    "section1": {
+      "title": "Expert Project Logistics Solutions",
+      "description": "Amanullah Transport & Logistics is equipped to handle the complexities of large-scale projects. From consultation during budgeting to final on-site assembly, we ensure seamless coordination and execution of your project logistics. Our team is experienced in managing heavy lifts, over-dimensional cargo, dangerous goods, and more."
+    },
+    "section2": {
+      "title": "Areas of Expertise",
+      "description": "We specialize in a wide range of project logistics services, including:",
+      "highlights": [
+        "Aircraft and ship charter",
+        "Oil, Gas, and Energy transports",
+        "Dangerous goods transport",
+        "Break bulk, Ro/Ro, and containerized freight solutions",
+        "Heavy lift and over-dimension transports",
+        "Military and government shipments",
+        "Race boat & yacht transportation",
+        "Supervision of port operations for heavy lifts",
+        "On-site representation and supervision",
+        "Complete documentation and letter of credit services"
+      ]
+    },
+    "section3": {
+      "title": "Global Network and Dedicated Support",
+      "description": "Our global network, supported by specialist staff, allows us to efficiently manage complex logistics, ensuring timely and safe delivery to any destination. From documentation to local customs clearance, we provide full assistance every step of the way."
+    },
+    "imageAlt": "Project Logistics"
+  },
+  "OverlandTransportation": {
+    "heroTitle": "Overland Transportation Services",
+    "heroDescription": "Safe, efficient, and secure transportation for goods across land routes.",
+    "section1": {
+      "title": "Expert Overland Transportation Services",
+      "description": "Amanullah Transport & Logistics offers a full range of overland transportation services designed to optimize your supply chain. Our expert team ensures safe, secure, and efficient transportation across the GCC region and Iraq. Whether you need project cargo, retail distribution, or complex logistical solutions, we have the experience and network to handle your needs."
+    },
+    "section2": {
+      "title": "Our Overland Expertise Includes:",
+      "description": "We specialize in road and multimodal transportation, offering:",
+      "list": [
+        "International and domestic retail distribution",
+        "Project cargo transportation",
+        "Specialist road transportation services across the GCC and Iraq",
+        "Optimized freight flow solutions",
+        "Transportation across even the most complex terrains",
+        "Experienced logistics team for secure and efficient delivery"
+      ]
+    },
+    "section3": {
+      "title": "Seamless Integration with Your Supply Chain",
+      "description": "Our services are designed to complement and strengthen your supply chain. By integrating road and multimodal transportation with other logistics services, we ensure that your freight reaches its destination securely, on time, and at an optimal cost."
+    }
+  },
+  "WarehousingLogistics": {
+    "heroTitle": "Warehousing & Logistics Services in Dubai, UAE",
+    "heroDescription": "Flexible, efficient, and customized solutions to meet all warehousing and logistics needs.",
+    "section1": {
+      "title": "Comprehensive Warehousing & Logistics Solutions",
+      "description": "Amanullah Transport & Logistics offers a comprehensive range of warehousing and logistics services designed to optimize your supply chain. With modern facilities located in key areas of Dubai, including the Jebel Ali Free Zone, we ensure maximum efficiency for your storage and distribution needs."
+    },
+    "section2": {
+      "title": "Our Warehousing Capabilities Include:",
+      "description": "Amanullah Transport & Logistics offers a range of warehousing solutions including:",
+      "highlights": [
+        "Storage of merchandise on pallets, open stock, and various containers (bins, crates, drums, etc.)",
+        "Storage of dangerous goods",
+        "Pick and pack operations, palletizing, and shrink wrapping",
+        "Custom packaging and labeling",
+        "Barcoding and labeling services",
+        "Parcel manifestation and e-commerce package processing",
+        "National distribution for parcels, pallets, and full truckloads",
+        "International distribution services through worldwide partnerships"
+      ]
+    },
+    "section3": {
+      "title": "Technology Integration & Scalability",
+      "description": "Our roadmap includes integrating advanced technology into our warehousing processes, providing increased transparency and streamlining workflows for clients. With our expanding warehousing capabilities and multi-user operations, we offer significant economies of scale to our clients."
+    },
+    "imageAlt": "Warehousing & Logistics"
+  },
+  "CustomsBrokerage": {
+    "heroTitle": "Customs Brokerage Services",
+    "heroDescription": "Expert customs clearance and brokerage services to ensure timely deliveries and compliance.",
+    "section1": {
+      "title": "Efficient and Reliable Customs Brokerage",
+      "description": "At Amanullah Transport & Logistics, we specialize in providing expert customs clearance and brokerage services. We understand that delays in the customs process can lead to additional costs and storage requirements, which is why we are committed to ensuring timely and efficient clearance for your shipments. Our experienced team is equipped to handle all customs processes, from valuation and verification to classification and e-clearance."
+    },
+    "section2": {
+      "title": "Key Customs Brokerage Services:",
+      "description": "Our customs brokerage services are designed to streamline your supply chain:",
+      "highlights": [
+        "Expert customs clearance for smooth and timely shipments",
+        "Accurate valuation, verification, and classification services",
+        "Electronic clearances (E-clearances) to ensure faster processing",
+        "Detailed documentation handling and submission",
+        "Comprehensive compliance management with local and international regulations",
+        "Efficient risk management to prevent shipment delays and penalties",
+        "On-time delivery assurance for both domestic and international shipments"
+      ]
+    },
+    "section3": {
+      "title": "Dedicated Team and Technology for Streamlined Operations",
+      "description": "Our experienced professionals work together to facilitate seamless customs clearance, supported by our state-of-the-art center for documentation excellence. With a focus on efficiency and reliability, we ensure that your goods clear customs without unnecessary delays, enabling you to keep your business running on schedule."
+    },
+    "imageAlt": "Customs Brokerage"
+  },
+  "ShipAgency": {
+    "heroTitle": "Ship Agency Services",
+    "heroDescription": "Expert ship agency services to ensure smooth maritime operations.",
+    "section1": {
+      "title": "Reliable Ship Agency Services",
+      "description": "At Amanullah Transport & Logistics, we are proud to be one of the leading ship agents in Dubai, offering comprehensive support for both local and international shipping needs. Our vast network of global partners and local shipping agents allows us to offer seamless services for cargo owners, vessel owners, and operators. Whether you are managing a fleet or require one-off maritime support, our technical expertise ensures consistent and reliable service for all your shipping needs."
+    },
+    "section2": {
+      "title": "Our Ship Agency Services Include:",
+      "description": "Our services cover all aspects of maritime operations:",
+      "highlights": [
+        "Expert shipping agents for vessel operations",
+        "Comprehensive husbanding and stevedoring services",
+        "Efficient crew change management",
+        "Reliable ship chandelling services",
+        "Port call management for smooth vessel operations",
+        "Custom solutions tailored to the needs of each vessel"
+      ]
+    },
+    "section3": {
+      "title": "Expertise and Reliability in Every Port",
+      "description": "With years of experience in the maritime industry, Amanullah Transport & Logistics brings technical expertise and local knowledge to every port. Our extensive network, coupled with our team of skilled professionals, ensures that your vessels and cargo are handled with the utmost care and efficiency. We are committed to making your shipping operations as smooth and successful as possible."
+    },
+    "imageAlt": "Ship Agency"
+  },
+  "LashingPacking": {
+    "heroTitle": "Lashing & Packing Services",
+    "heroDescription": "Ensuring safe, secure, and damage-free transportation of your cargo.",
+    "section1": {
+      "title": "Safe & Efficient Cargo Lashing and Packing",
+      "description": "At Amanullah Transport & Logistics, we understand the critical role of proper lashing and packing in ensuring the safe and secure transportation of goods. Our experienced handlers are skilled in the latest lashing and packaging techniques, ensuring that your cargo remains undamaged and securely fastened throughout its journey. Whether it’s for local or international transportation, we offer comprehensive lashing and packing services tailored to your specific needs."
+    },
+    "section2": {
+      "title": "Why Lashing & Packing is Essential",
+      "description": "Proper lashing and packing prevent cargo from shifting during transport, which reduces the risk of damage. It is a crucial step in the shipping process, especially for fragile, oversized, or heavy goods. Our packing and lashing services ensure that all your cargo is securely fastened using the most appropriate materials and techniques for safe delivery."
+    },
+    "section3": {
+      "title": "Our Packing & Lashing Services Include:",
+      "description": "We offer a range of lashing and packing services to meet your cargo needs:",
+      "highlights": [
+        "Safe cargo lashing using ropes, chains, cables, and nets",
+        "Packaging for various cargo types, including fragile and hazardous goods",
+        "Customized lashing solutions for secure transportation",
+        "Efficient handling of oversized and heavy loads",
+        "Expert packing techniques to prevent damage during transit",
+        "Comprehensive material handling for delicate and bulk shipments"
+      ]
+    },
+    "imageAlt": "Lashing & Packing"
+  },
+  "IOREORLogistics": {
+    "heroTitle": "IOR / EOR Logistics Services",
+    "heroDescription": "Simplifying cross-border trade with reliable IOR/EOR solutions.",
+    "section1": {
+      "title": "Simplifying Global Trade with IOR/EOR Services",
+      "description": "At Amanullah Transport & Logistics, we understand the complexities of cross-border trade and the challenges faced by businesses when expanding internationally. Our IOR (Importer of Record) and EOR (Exporter of Record) services provide a seamless solution, allowing your business to operate without the need to establish a physical presence in every country you wish to trade with. With a deep understanding of customs, logistics, and supply chain operations, we provide reliable and sustainable business solutions for our customers worldwide."
+    },
+    "section2": {
+      "title": "Key Benefits of Our IOR/EOR Services",
+      "description": "Our IOR/EOR solutions offer a range of benefits to facilitate your international operations:",
+      "list": [
+        "Minimize legal and operational complexities by outsourcing your IOR/EOR responsibilities",
+        "Streamlined customs clearance and documentation management for both imports and exports",
+        "Access to global markets without establishing a local corporate presence",
+        "Efficient tax and regulatory compliance in multiple countries",
+        "Centralized billing and one-point contact for all your IOR/EOR needs"
+      ]
+    },
+    "section3": {
+      "title": "Our IOR/EOR Services Include:",
+      "description": "We provide comprehensive IOR/EOR services, including:",
+      "list": [
+        "Acting as the IOR/EOR for customs clearance during import and export operations",
+        "Maintaining and archiving customs records as required by regulations",
+        "Applying for necessary permits and authorizations from regulatory bodies",
+        "Providing warehousing solutions for goods in transit",
+        "Offering repair and return services for damaged or defective products"
+      ]
+    }
+  },
+  "ValueAddedLogistics": {
+    "heroTitle": "Value Added Logistics Services",
+    "heroDescription": "Enhancing your logistics operations with our comprehensive services.",
+    "section1": {
+      "title": "Value Added Logistics Services Overview",
+      "description": "At Amanullah Transport & Logistics, we offer a wide range of value-added services designed to streamline and enhance your logistics operations. Our services cover every aspect of your logistics needs, from inbound and outbound shipments to warehousing, customs clearance, and specialized handling of project cargo and dangerous goods."
+    },
+    "section2": {
+      "title": "Our Key Value-Added Services Include:",
+      "list": [
+        "Arranging inbound and outbound shipments to and from FZE and Mainland companies",
+        "Cross trade facilitated through our global network of partners",
+        "Customs clearance and delivery services",
+        "IOR facilities for simplified import/export processes",
+        "Approved agent for handling Dangerous Goods (DG) acceptance",
+        "Transhipment by Air and Sea, with specialized SEA/AIR, AIR/AIR, and AIR/SEA services",
+        "Comprehensive warehousing and distribution in JAFZA/DAFZA and Mainland for general cargo and DG/IMCO cargo",
+        "Specialized handling for Ship Spares & AOG shipments, with door-to-door services",
+        "Project cargo handling with heavy lift specialists",
+        "Office at Kizad Free Zone with ICV certification"
+      ]
+    },
+    "section3": {
+      "title": "Customs and Certification Services",
+      "description": "We assist with all necessary documentation, including:",
+      "list": [
+        "Dubai Customs: Customs clearance for all types of documents such as import, export, and internal transfers within free zones",
+        "Dubai Chamber: Applying for certificates of origin and delivering them to customers",
+        "Dubai Municipality: Import clearance for Montaji approval for chemicals, food, and medicine",
+        "Federal Tax Authority: Assisting customers with VAT approval for customs clearance",
+        "SIRA (Dubai Police): Import/export approval and GPS installation on chemical vehicles",
+        "ESMA: Import approvals for chemical goods, tires, etc., based on HS codes",
+        "Ministry of Economy: Issuance of Industrial COO for duty exemption in free trade agreement countries"
+      ]
+    }
+  },
+  "IntegratedITSystemSolutions": {
+    "heroTitle": "Integrated IT System Solutions for Enhanced Logistics",
+    "heroDescription": "Streamline your logistics with our tailored ERP solutions.",
+    "section1": {
+      "title": "End-to-End ERP Solutions for Ocean and Air Freight",
+      "description": "At Amanullah Transport & Logistics, we provide a bespoke, end-to-end Ocean and Air ERP solution. Our integrated software modules help streamline your entire logistics process, providing enhanced visibility, cost management, and scalability. The system easily integrates with your existing business platform, enabling you to improve productivity across all areas of your operations."
+    },
+    "section2": {
+      "title": "Our IT System Modules Include:",
+      "list": [
+        "Sales Management",
+        "Customer Relationship Management (CRM)",
+        "Track & Trace functionality for real-time updates",
+        "Electronic Data Interchange (EDI) for seamless integration",
+        "Customs and Compliance Management",
+        "CFS (Container Freight Station) Operations",
+        "Document Management",
+        "Non-Vessel Operating Common Carrier (NVOCC) Services",
+        "Relocation and Project Cargo Management",
+        "Management Information System (MIS)/Business Intelligence (BI)",
+        "Comprehensive Financial Management Module"
+      ]
+    },
+    "section3": {
+      "title": "Key Features of Our Integrated IT System:",
+      "list": [
+        "Auto-trigger of emails and SMS on shipment arrival, departure, and proof of delivery",
+        "Real-time Track & Trace via mobile applications and web tools",
+        "Ports and customs related EDI integration (ACI, AMS, INTTRA, ISF, WWA, Traxon, Cargo-IMP, and eFreight)",
+        "Cost proration for console and individual shipments, transshipment, and sea-air shipments",
+        "Extensive analysis reports available in common formats for decision-making",
+        "Barcode and PDA functionality for WMS and CFS handling",
+        "Efficient Purchase Order Management using ePO",
+        "Multi-currency and multi-location management with customizable zones and regions"
+      ]
+    }
+  },
+  "DangerousGoodsStorageAndTransportation": {
+    "heroTitle": "Dangerous Goods Storage and Transportation",
+    "heroDescription": "Safe and compliant handling of hazardous cargo across air, sea, road, and rail.",
+    "section1": {
+      "title": "Expert Handling of Dangerous Goods",
+      "description": "At Amanullah Transport & Logistics, we understand the complexities involved in the transport, storage, and handling of dangerous goods. Whether it’s a substance that’s poisonous, flammable, or corrosive, we provide state-of-the-art solutions to ensure your cargo is safely managed from origin to destination. We offer services for all nine classes of dangerous goods, and our facilities comply with safety standards for hazardous and explosive materials."
+    },
+    "section2": {
+      "title": "Comprehensive Dangerous Goods Services",
+      "description": "We offer a complete range of services for the safe and efficient transport and storage of dangerous goods, including:",
+      "list": [
+        "Storage of hazardous materials in compliance with DG classification",
+        "Expert packaging, labeling, and documentation for dangerous goods",
+        "Customs clearance for dangerous cargo",
+        "Global transportation across air, sea, road, and rail",
+        "Full compliance with international safety and handling standards"
+      ]
+    }
+  },
+  "AboutUs": {
+    "heroTitle": "Delivering Excellence Across the Globe",
+    "heroDescription": "We are committed to providing reliable, efficient, and cost-effective shipping solutions. With a global presence, we ensure that your goods reach their destination on time, every time.",
+    "findUsOn": "Find us on",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/amanullah_logistics",
+      "instagram": "https://www.instagram.com/amanullah_logistics",
+      "tiktok": "https://www.tiktok.com/@amanullah_logistics?_t=8rAd15GTIhe&_r=1",
+      "whatsapp": "https://wa.me/+971522324064",
+      "phone": "tel:+97142255735"
+    }
+  },
+  "Information": {
+    "companyHistory": {
+      "title": "Company History",
+      "description": "Established Since 2005 - United Arab Emirates, Dubai."
+    },
+    "ourTeam": {
+      "title": "Our Team",
+      "description": "Since inception, Amanullah Transport & Logistics has progressed and expanded its freight forwarding operations to include project shipments, air, rig movements, dangerous goods."
+    },
+    "missionStatement": {
+      "title": "Mission Statement",
+      "description": "To deliver high-quality logistics solutions and streamline our client’s international supply chains with the objective of accelerating their growth and competitiveness within their respective industries. To always place customer satisfaction as the highest priority and maintain the flexible, transparent, and price-sensitive service which Amanullah Transport & Logistics has forever been known for."
+    },
+    "visionStatement": {
+      "title": "Vision Statement",
+      "description": "To empower our clients and their supply chains across the globe, through the delivery of effective, bespoke, integrated logistics solutions."
+    },
+    "flipCard": {
+      "front": {
+        "title": "Delivering Excellence Since 2005",
+        "description": "Experience world-class logistics solutions with Amanullah Transport & Logistics."
+      },
+      "back": {
+        "title": "Our Commitment",
+        "description": "Streamlining global supply chains with bespoke logistics solutions tailored for your growth.",
+        "actionLabel": "Learn More"
+      }
+    }
+  },
+  "Featuring": {
+    "successfulDeliveries": {
+      "count": 5234,
+      "title": "Successful Deliveries",
+      "description": "Handled with precision and meeting client expectations globally."
+    },
+    "clientsServed": {
+      "count": 3400,
+      "suffix": "+",
+      "title": "Clients Served",
+      "description": "Building trust and long-term partnerships across industries."
+    },
+    "customerSupport": {
+      "count": 24,
+      "suffix": "/7",
+      "title": "Customer Support",
+      "description": "Providing round-the-clock assistance for seamless operations."
+    }
+  },
+  "ContactUs": {
+    "title": "Get in Touch with Us!",
+    "description": "We're here to assist you with all your logistics needs. Fill out the form, and our team will get back to you shortly.",
+    "contactInfoTitle": "Contact Information",
+    "contactInfoDescription": "Fill up the form and our Team will get back to you within 24 hours.",
+    "formLabels": {
+      "name": "My name is",
+      "namePlaceholder": "Full Name",
+      "phone": "My Contact Number is",
+      "phonePlaceholder": "Contact Number",
+      "email": "My email is",
+      "emailPlaceholder": "Email Address",
+      "message": "Your message",
+      "messagePlaceholder": "I want to say that..."
+    },
+    "formButton": {
+      "submit": "Send Message",
+      "loading": "Sending..."
+    },
+    "contactDetails": {
+      "phone": "Phone",
+      "email": "Email",
+      "address": "Address",
+      "phoneValue": "(+971) 42 25 5735",
+      "emailValue": "info@amanullahgroup.ae",
+      "addressValue": "Bniyas Complex, B, Block, 7th Floor 701 Deira Dubai."
+    },
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/amanullahlogistics",
+      "instagram": "https://www.instagram.com/amanullah_logistics",
+      "tiktok": "https://www.tiktok.com/@amanullah_logistics?_t=8rAd15GTIhe&_r=1",
+      "whatsapp": "https://wa.me/+971522324064",
+      "phone": "tel:+97142255735"
+    }
+  },
+  "Home": {
+    "heroSection": {
+      "title": "LET US HANDLE YOUR LOGISTICS.",
+      "subtitle": "The most valuable resource we have is our team.",
+      "description": "Their unwavering commitment to excellence is what has empowered Amanullah Transport & Logistics to provide the top-tier shipping and logistics services we are renowned for."
+    },
+    "thankYou": {
+      "title": "Thank you for your support!",
+      "description": "We deliver reliable logistics solutions worldwide."
+    },
+    "socialButtons": {
+      "facebook": "Share on Facebook",
+      "instagram": "Follow us on Instagram",
+      "tiktok": "Follow us on TikTok",
+      "whatsapp": "Chat on WhatsApp",
+      "call": "Call Us"
+    }
+  },
+  "HeroSection": {
+    "headings": {
+      "heading1": "EXCELLENCE IN SHIPPING & LOGISTICS",
+      "heading2": "CONNECTING THE WORLD, ONE SHIPMENT AT A TIME",
+      "heading3": "END TO END LOGISTICS SOLUTION",
+      "heading4": "EXCELLENCE IN SHIPPING & LOGISTICS",
+      "heading5": "CONNECTING THE WORLD, ONE SHIPMENT AT A TIME",
+      "heading6": "END TO END LOGISTICS SOLUTION"
+    },
+    "paras1": {
+      "para1": "SHIPPING COMPANIES IN DUBAI",
+      "para2": "WE TAKE CARE OF ALL YOUR LOGISTICS NEEDS",
+      "para3": "YOUR VERY OWN, BESPOKE SUPPLY CHAIN EXTENSION",
+      "para4": "SHIPPING COMPANIES IN DUBAI",
+      "para5": "WE TAKE CARE OF ALL YOUR LOGISTICS NEEDS",
+      "para6": "YOUR VERY OWN, BESPOKE SUPPLY CHAIN EXTENSION"
+    },
+    "paras2": {
+      "para1": "YOUR UNPARALLELED LOGISTICS PARTNER SINCE 2005",
+      "para2": "",
+      "para3": "",
+      "para4": "",
+      "para5": "",
+      "para6": ""
+    }
+  },
+  "InfoSection": {
+    "card1": {
+      "title": "Global Reach",
+      "description": "Our vast network of partners ensures that your shipments are handled with care, from anywhere in the world to your doorstep."
+    },
+    "card2": {
+      "title": "Logistics Success",
+      "description": "We provide tailor-made logistics solutions, ensuring your cargo is delivered on time and in perfect condition."
+    },
+    "card3": {
+      "title": "Proven Results",
+      "description": "Our clients trust us because we deliver on our promises, ensuring a seamless logistics experience from start to finish."
+    }
+  },
+  "Counters": {
+    "counter1": {
+      "count": 30,
+      "suffix": "+",
+      "title": "Years in Business",
+      "description": "Dedicated to excellence in shipping and logistics solutions"
+    },
+    "counter2": {
+      "count": 97,
+      "suffix": "%",
+      "title": "Client Retention",
+      "description": "Building trust and satisfaction with our clients"
+    },
+    "counter3": {
+      "count": 30,
+      "suffix": "%",
+      "title": "Annual Growth",
+      "description": "Achieving steady growth year after year"
+    }
+  },
+  "BuiltByDevelopers": {
+    "title": "International shipping and goods transportation experts based in Dubai, UAE",
+    "description": "With over 20 years of experience in shipping and moving goods, we move your personal goods and commercial goods efficiently and carefully to various locations in Dubai, UAE. Since 2005, we have been a leading provider of international air, sea and freight forwarding services, with offices and warehouses across the Emirates.",
+    "learnMore": "Learn more"
+  },
+  "AllServices": {
+    "sectionTitle": "Our Services",
+    "services": {
+      "AirFreightService": "Air Freight Service",
+      "SeaFreightService": "Sea Freight Service",
+      "ProjectLogistics": "Project Logistics",
+      "OverlandTransportationService": "Overland Transportation Service",
+      "WarehousingLogisticsService": "Warehousing Logistics Service",
+      "CustomsBrokerageService": "Customs Brokerage Service",
+      "ShipAgencyService": "Ship Agency Service",
+      "LashingPackingService": "Lashing & Packing Services",
+      "IOR-EOR-Logistics-Service": "IOR EOR Logistics Service",
+      "Value-Added-Logistics-Services": "Value Added Logistics Service",
+      "Integrated-IT-System-Solutions": "Integrated IT System Solutions",
+      "Dangerous-Goods-Storage-And-Transportation": "Dangerous Goods Storage And Transportation"
+    }
+  },
+  "Quote": {
+    "title": "Get a Quote",
+    "tabs": {
+      "containerized": "Containerized",
+      "breakBulk": "Break Bulk",
+      "heavyLift": "Heavy Lift",
+      "truck": "Truck",
+      "air": "Air"
+    }
+  },
+  "Forms": {
+    "full_name": "Full Name",
+    "email": "Email Address",
+    "phone_number": "Phone Number",
+    "company_name": "Company Name",
+    "origin_port": "Origin Port",
+    "destination_port": "Destination Port",
+    "commodity_value": "Commodity Value (USD)",
+    "gross_weight": "Gross Weight",
+    "length": "Length",
+    "width": "Width",
+    "height": "Height",
+    "number_of_packages": "No. of Pieces / Packages",
+    "package_type": "Package Type",
+    "refrigerated_temperature": "Refrigerated Temperature (°C)",
+    "mco_class_un_number": "IMCO Class & UN Number",
+    "comments": "Comments",
+    "commodity": "Select Commodity",
+    "load_type": "Select Load Type",
+    "container_type": "Container Type",
+    "weight_unit": "Weight Unit",
+    "refrigerated": "Refrigerated",
+    "hazardous": "Hazardous",
+    "add_insurance": "Add Insurance",
+    "incoterms": "Select Incoterms",
+    "unit_type": "Unit Type",
+    "mode": "Mode",
+    "international": "International",
+    "origin_country": "Origin Country",
+    "destination_country": "Destination Country",
+    "flatbed": "Flatbed",
+    "hazardous_shipment": "Hazardous Shipment",
+    "inside_limited_access_delivery": "Inside Limited Access Delivery",
+    "inside_limited_access_pickup": "Inside Limited Access Pickup",
+    "residential_pickup": "Residential Pickup",
+    "residential_delivery": "Residential Delivery",
+    "origin_airport": "Origin Airport",
+    "destination_airport": "Destination Airport",
+    "customs_in_bond_freight": "Customs or In-Bond Freight",
+    "fcl": "FCL (Full Container Load)",
+    "lcl": "LCL (Less than Container Load)",
+    "accessorial_charges": "Accessorial Charges",
+    "container_20ft": "20ft",
+    "container_40ft": "40ft",
+    "container_45ft": "45ft",
+    "container_53ft": "53ft",
+    "weight_lb_ln": "lb / ln",
+    "weight_kg_cm": "kg / cm",
+    "metric_tons": "Metric Tons",
+    "tons": "Tons",
+    "kgs": "Kgs",
+    "lbs": "Lbs",
+    "meters": "Meters",
+    "yards": "Yards",
+    "feet": "Feet",
+    "inches": "Inches",
+    "loose_bulk": "Loose Bulk",
+    "package_bulk": "Package Bulk",
+    "submitting": "Submitting...",
+    "submit": "Submit"
+  },
+  "commodityOptions": {
+    "agriculture": "Agriculture (Fruits and Vegetables)",
+    "apparel": "Apparel",
+    "automobiles_motorcycles": "Automobiles & Motorcycles",
+    "automobile_motorcycle_parts": "Automobile & Motorcycle Parts",
+    "arts_crafts": "Arts & Crafts",
+    "beauty_personal_care": "Beauty & Personal Care",
+    "chemicals": "Chemicals",
+    "computer_hardware_software": "Computer Hardware & Software",
+    "construction_equipment": "Construction Equipment",
+    "construction_materials": "Construction Materials",
+    "consumer_electronics": "Consumer Electronics",
+    "electrical_equipment_supplies": "Electrical Equipment & Supplies",
+    "electronic_components_supplies": "Electronic Components & Supplies",
+    "fashion_accessories": "Fashion Accessories",
+    "bottled_beverages": "Bottled Beverages",
+    "bottled_products_non_beverages": "Bottled Products (Non-beverages)",
+    "food_perishable": "Food (Perishable)",
+    "food_non_perishable": "Food (Non-Perishable) i.e. Cereals and Grains",
+    "food_frozen": "Food (Frozen)",
+    "food_frozen_meat": "Food (Frozen Meat)",
+    "furniture_new_branded": "Furniture (New Branded)",
+    "furniture_used": "Furniture (Used)",
+    "hardware": "Hardware",
+    "health_medical_supplies": "Health & Medical Supplies",
+    "home_appliances": "Home Appliances",
+    "home_garden": "Home & Garden",
+    "household_goods": "Household Goods",
+    "lights_lighting": "Lights & Lighting",
+    "luggage_bags_cases": "Luggage, Bags & Cases",
+    "mechanical_fabrication_parts": "Mechanical & Fabrication Parts",
+    "machinery": "Machinery",
+    "measurement_analysis_instruments": "Measurement & Analysis Instruments",
+    "minerals_metallurgy": "Minerals & Metallurgy",
+    "office_school_supplies": "Office & School Supplies",
+    "packaging_printing": "Packaging & Printing",
+    "rubber_plastics": "Rubber & Plastics",
+    "security_protection": "Security & Protection",
+    "shoes_accessories": "Shoes & Accessories",
+    "sports_entertainment": "Sports & Entertainment",
+    "telecommunications": "Telecommunications",
+    "textiles_leather_products": "Textiles & Leather Products",
+    "timepieces_jewelry_eyewear": "Timepieces, Jewelry, Eyewear",
+    "tools": "Tools",
+    "toys_hobbies": "Toys & Hobbies",
+    "transportation": "Transportation",
+    "boats_yacht": "Boats (Yacht)",
+    "coils_pipes": "Coils & Pipes",
+    "grains": "Grains",
+    "heavy_equipment": "Heavy Equipment",
+    "locomotives": "Locomotives",
+    "power_generation": "Power Generation",
+    "steel_structures": "Steel Structures",
+    "sensitive_equipment": "Sensitive Equipment",
+    "timber": "Timber",
+    "general_merchandise": "General Merchandise",
+    "new_used_machinery": "New or Used Machinery",
+    "fragile_goods": "Fragile Goods",
+    "computers_electronics": "Computers/Electronics",
+    "fine_arts": "Fine Arts",
+    "motorcycles_autos": "Motorcycles & Autos",
+    "precision_instruments": "Precision Instruments",
+    "chemicals_hazardous_materials": "Chemicals/Hazardous Mat.",
+    "steel_sheets_coils_bars": "Steel Sheets, Coils & Bars",
+    "branded_goods": "Branded Goods",
+    "non_perishable_food": "Non Perishable Food",
+    "frozen_foods_excluding_meat": "Frozen Foods (excluding meat)",
+    "frozen_meats": "Frozen Meats",
+    "yachts": "Yachts",
+    "jewelry": "Jewelry"
+  },
+  "incotermsOptions": {
+    "fca_free_carrier": "FCA - Free Carrier",
+    "cpt_carriage_paid_to": "CPT - Carriage Paid to",
+    "cip_carriage_and_insurance_paid_to": "CIP - Carriage and Insurance Paid To",
+    "dap_delivered_at_place": "DAP - Delivered at Place",
+    "dpu_delivered_at_place_unloaded": "DPU - Delivered at Place Unloaded",
+    "ddp_delivered_duty_paid": "DDP - Delivered Duty Paid",
+    "fas_free_alongside_ship": "FAS - Free Alongside Ship",
+    "fob_free_on_board": "FOB - Free on Board",
+    "cfr_cost_and_freight": "CFR - Cost and Freight",
+    "cif_cost_insurance_and_freight": "CIF - Cost Insurance and Freight",
+    "exw_ex_works": "EXW - Ex Works"
+  },
+  "Countries": {
+    "afghanistan": "Afghanistan",
+    "albania": "Albania",
+    "algeria": "Algeria",
+    "andorra": "Andorra",
+    "angola": "Angola",
+    "antigua_deps": "Antigua & Deps",
+    "argentina": "Argentina",
+    "armenia": "Armenia",
+    "australia": "Australia",
+    "austria": "Austria",
+    "azerbaijan": "Azerbaijan",
+    "bahamas": "Bahamas",
+    "bahrain": "Bahrain",
+    "bangladesh": "Bangladesh",
+    "barbados": "Barbados",
+    "belarus": "Belarus",
+    "belgium": "Belgium",
+    "belize": "Belize",
+    "benin": "Benin",
+    "bhutan": "Bhutan",
+    "bolivia": "Bolivia",
+    "bosnia_herzegovina": "Bosnia Herzegovina",
+    "botswana": "Botswana",
+    "brazil": "Brazil",
+    "brunei": "Brunei",
+    "bulgaria": "Bulgaria",
+    "burkina": "Burkina",
+    "burundi": "Burundi",
+    "cambodia": "Cambodia",
+    "cameroon": "Cameroon",
+    "canada": "Canada",
+    "cape_verde": "Cape Verde",
+    "central_african_rep": "Central African Rep",
+    "chad": "Chad",
+    "chile": "Chile",
+    "china": "China",
+    "colombia": "Colombia",
+    "comoros": "Comoros",
+    "congo": "Congo",
+    "congo_democratic_rep": "Congo {Democratic Rep}",
+    "costa_rica": "Costa Rica",
+    "croatia": "Croatia",
+    "cuba": "Cuba",
+    "cyprus": "Cyprus",
+    "czech_republic": "Czech Republic",
+    "denmark": "Denmark",
+    "djibouti": "Djibouti",
+    "dominica": "Dominica",
+    "dominican_republic": "Dominican Republic",
+    "east_timor": "East Timor",
+    "ecuador": "Ecuador",
+    "egypt": "Egypt",
+    "el_salvador": "El Salvador",
+    "equatorial_guinea": "Equatorial Guinea",
+    "eritrea": "Eritrea",
+    "estonia": "Estonia",
+    "ethiopia": "Ethiopia",
+    "fiji": "Fiji",
+    "finland": "Finland",
+    "france": "France",
+    "gabon": "Gabon",
+    "gambia": "Gambia",
+    "georgia": "Georgia",
+    "germany": "Germany",
+    "ghana": "Ghana",
+    "greece": "Greece",
+    "grenada": "Grenada",
+    "guatemala": "Guatemala",
+    "guinea": "Guinea",
+    "guinea_bissau": "Guinea-Bissau",
+    "guyana": "Guyana",
+    "haiti": "Haiti",
+    "honduras": "Honduras",
+    "hungary": "Hungary",
+    "iceland": "Iceland",
+    "india": "India",
+    "indonesia": "Indonesia",
+    "iran": "Iran",
+    "iraq": "Iraq",
+    "ireland_republic": "Ireland {Republic}",
+    "israel": "Israel",
+    "italy": "Italy",
+    "ivory_coast": "Ivory Coast",
+    "jamaica": "Jamaica",
+    "japan": "Japan",
+    "jordan": "Jordan",
+    "kazakhstan": "Kazakhstan",
+    "kenya": "Kenya",
+    "kiribati": "Kiribati",
+    "korea_north": "Korea North",
+    "korea_south": "Korea South",
+    "kosovo": "Kosovo",
+    "kuwait": "Kuwait",
+    "kyrgyzstan": "Kyrgyzstan",
+    "laos": "Laos",
+    "latvia": "Latvia",
+    "lebanon": "Lebanon",
+    "lesotho": "Lesotho",
+    "liberia": "Liberia",
+    "libya": "Libya",
+    "liechtenstein": "Liechtenstein",
+    "lithuania": "Lithuania",
+    "luxembourg": "Luxembourg",
+    "macedonia": "Macedonia",
+    "madagascar": "Madagascar",
+    "malawi": "Malawi",
+    "malaysia": "Malaysia",
+    "maldives": "Maldives",
+    "mali": "Mali",
+    "malta": "Malta",
+    "marshall_islands": "Marshall Islands",
+    "mauritania": "Mauritania",
+    "mauritius": "Mauritius",
+    "mexico": "Mexico",
+    "micronesia": "Micronesia",
+    "moldova": "Moldova",
+    "monaco": "Monaco",
+    "mongolia": "Mongolia",
+    "montenegro": "Montenegro",
+    "morocco": "Morocco",
+    "mozambique": "Mozambique",
+    "myanmar_burma": "Myanmar, {Burma}",
+    "namibia": "Namibia",
+    "nauru": "Nauru",
+    "nepal": "Nepal",
+    "netherlands": "Netherlands",
+    "new_zealand": "New Zealand",
+    "nicaragua": "Nicaragua",
+    "niger": "Niger",
+    "nigeria": "Nigeria",
+    "norway": "Norway",
+    "oman": "Oman",
+    "pakistan": "Pakistan",
+    "palau": "Palau",
+    "panama": "Panama",
+    "papua_new_guinea": "Papua New Guinea",
+    "paraguay": "Paraguay",
+    "peru": "Peru",
+    "philippines": "Philippines",
+    "poland": "Poland",
+    "portugal": "Portugal",
+    "qatar": "Qatar",
+    "romania": "Romania",
+    "russian_federation": "Russian Federation",
+    "rwanda": "Rwanda",
+    "st_kitts_nevis": "St Kitts & Nevis",
+    "st_lucia": "St Lucia",
+    "saint_vincent_grenadines": "Saint Vincent & the Grenadines",
+    "samoa": "Samoa",
+    "san_marino": "San Marino",
+    "sao_tome_principe": "Sao Tome & Principe",
+    "saudi_arabia": "Saudi Arabia",
+    "senegal": "Senegal",
+    "serbia": "Serbia",
+    "seychelles": "Seychelles",
+    "sierra_leone": "Sierra Leone",
+    "singapore": "Singapore",
+    "slovakia": "Slovakia",
+    "slovenia": "Slovenia",
+    "solomon_islands": "Solomon Islands",
+    "somalia": "Somalia",
+    "south_africa": "South Africa",
+    "south_sudan": "South Sudan",
+    "spain": "Spain",
+    "sri_lanka": "Sri Lanka",
+    "sudan": "Sudan",
+    "suriname": "Suriname",
+    "swaziland": "Swaziland",
+    "sweden": "Sweden",
+    "switzerland": "Switzerland",
+    "syria": "Syria",
+    "taiwan": "Taiwan",
+    "tajikistan": "Tajikistan",
+    "tanzania": "Tanzania",
+    "thailand": "Thailand",
+    "togo": "Togo",
+    "tonga": "Tonga",
+    "trinidad_tobago": "Trinidad & Tobago",
+    "tunisia": "Tunisia",
+    "turkey": "Turkey",
+    "turkmenistan": "Turkmenistan",
+    "tuvalu": "Tuvalu",
+    "uganda": "Uganda",
+    "ukraine": "Ukraine",
+    "united_arab_emirates": "United Arab Emirates",
+    "united_kingdom": "United Kingdom",
+    "united_states": "United States",
+    "uruguay": "Uruguay",
+    "uzbekistan": "Uzbekistan",
+    "vanuatu": "Vanuatu",
+    "vatican_city": "Vatican City",
+    "venezuela": "Venezuela",
+    "vietnam": "Vietnam",
+    "yemen": "Yemen",
+    "zambia": "Zambia",
+    "zimbabwe": "Zimbabwe"
+  },
+  "Footer": {
+    "brand": {
+      "name": "Amanullah Transport & Logistics"
+    },
+    "menus": {
+      "company": "Company",
+      "project": "Project",
+      "aboutUs": "About Us",
+      "allServices": "All Services",
+      "moreServices": "More Services",
+      "helpSupport": "Help & Support",
+      "contactUs": "Contact Us",
+      "getQuote": "Get a Quote",
+      "airFreight": "Air Freight Service",
+      "seaFreight": "Sea Freight Service",
+      "projectLogistics": "Project Logistics",
+      "overlandTransport": "Overland Transportation Service",
+      "warehousingLogistics": "Warehousing Logistics Service",
+      "customsBrokerage": "Customs Brokerage Service",
+      "shipAgency": "Ship Agency Service",
+      "lashingPacking": "Lashing & Packing Services",
+      "iorEor": "IOR EOR Logistics Service",
+      "valueAdded": "Value Added Logistics Service",
+      "itSolutions": "Integrated IT System Solutions",
+      "dangerousGoods": "Dangerous Goods Storage And Transportation"
+    },
+    "copyrightLine1": "All rights reserved. Copyright",
+    "copyrightLine2": "by"
+  }
+}

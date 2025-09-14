@@ -1,0 +1,934 @@
+{
+  "selectLanguage": "Dil saýla",
+  "Project": {
+    "Project_Title": "Biziň Bütindünýä Logistika Taslamalarymyz",
+    "Project_Description": "Logistika zerurlyklaryňyz üçin biziň bilen hyzmatdaşlyk ediň we bökdençsiz ulag çözgütlerinden lezzet alyň.",
+    "Turkmenistan": "Türkmenistan",
+    "Turkey": "Türkiýe",
+    "Russia": "Russiýa",
+    "Kazakhstan": "Gazagystan",
+    "Afghanistan": "Owganystan",
+    "China": "Hytaý",
+    "UAE": "BAE"
+  },
+  "Navbar": {
+    "brand": {
+      "name": "Amanullah Transport we Logistika"
+    },
+    "routes": {
+      "home": "Baş sahypa",
+      "services": "Hyzmatlar",
+      "project": "Taslama",
+      "about": "Biz hakda",
+      "contact": "Habarlaşmak",
+      "quote": "Teklip alyň",
+      "airFreight": "Howa ýük gatnaw hyzmaty",
+      "seaFreight": "Deňiz ýük gatnaw hyzmaty",
+      "projectLogistics": "Taslama Logistika",
+      "overlandTransportation": "Ýerüsti Gatnaw Hyzmaty",
+      "warehousingLogistics": "Ammar Logistika Hyzmaty",
+      "customsBrokerage": "Gümrük Brokar Hyzmaty",
+      "shipAgency": "Gämi Agentlik Hyzmaty",
+      "lashingPacking": "Baglamak we Gaplamak Hyzmatlary",
+      "iorEorLogistics": "IOR EOR Logistika Hyzmaty",
+      "valueAddedLogistics": "Gymmat goşulan Logistika Hyzmaty",
+      "integratedITSolutions": "Integrirlenen IT Ulgam Çözümleri",
+      "dangerousGoods": "Howply Harytlary Saklamak we Daşamak"
+    }
+  },
+  "AirFreight": {
+    "heroTitle": "Dubaýda, BAE-de Howa Gatnawy Hyzmatlary",
+    "heroDescription": "Dubaýda we BAE-de ygtybarly we netijeli howa gatnawy hyzmatlaryny hödürläp, siziň ýükleriňizi howpsuz we wagtynda eltip berýäris. Siz üçin ýöriteleşdirilen logistik çözgütlere bize ynanyň.",
+    "section1": {
+      "title": "Dubaýda, BAE-de Howa Gatnawy Hyzmatlary",
+      "description1": "Gyssagly bukjalardan uly ýükleriňe çenli, biz bütin dünýä boýunça gapma-garşy howa gatnawy çözgütlerini üpjün edýäris. Biziň hünärmen toparymyz we global ulgamymyz elýeterligiňizi kepillendirýär, ähli maglumatlary we yzarlaýyş mümkinçiliklerini aýdyň hödürleýär. Bize gümrük we soňky eltip bermek işlerini ynanyň.",
+      "description2": "Biz siziň ähli howa gatnawy zerurlyklaryňyzy dolandyrýarys — gönüden-göni ýüklerden konsolidasiýa edilen ýükler, hatda howply materiallar hem bar. Biziň ýerli tejribämiz we halkara aragatnaşygymyz bilen, ýükleriňiz serhetlerden üznüksiz geçýär, giňişleýin yzarlaýyş we ygtybarly eltip bermek çözgütleri bilen üpjün edilýär."
+    },
+    "section2": {
+      "title": "Üstünlik (Deňizden Howa | Howadan Howa)",
+      "description": "BAE, global söwda ugurlaryny üznüksiz birikdirýän möhüm üstaşyr nokady bolup hyzmat edýär. GCC bilen baglanyşykly giň ulgamy, ýol, howa we deňiz kanallary arkaly Hindistan Subkontinentine, GDA, Gyzyl Deňiz Portlaryna we Afrikany ýüke goýbermegi üpjün edýär. Tiz we ygtybarly eltip bermek üçin BAE-niň deňiz-howalyk geçiş nokadynyň strategiki ýerleşişinden peýdalanyň."
+    },
+    "section3": {
+      "title": "Howa Gatnawy we Ýük Hyzmatlary",
+      "description": "Biz siziň ýükleriňizi wagtynda eltip bermek wajyplygyny bilýäris, şonuň üçin BAE-de howa gatnawy hyzmatlarymyzyň maksady ýükleriňizi tiz we ygtybarly eltmekdir. Biziň tejribeli toparymyz ähli jikme-jiklikleri seresaplyk bilen dolandyrýar — ähli zerur resminamalary işlemekden başlap, ähli transport prosesini gözegçilikde saklaýar, her gezek ýükleriňiziň howpsuz we wagtynda gelmegini üpjün edýär."
+    },
+    "section4": {
+      "title": "Howa Ýük Hyzmatlarymyzyň Esasy Aýratynlyklary",
+      "highlights": [
+        "Global Gapydan-Gapyda Eltip Bermek: Başlangyç nokatdan bellenilen nokada çenli üznüksiz transport, doly yzarlaýyş we gözegçilik bilen üpjün edilýär.",
+        "Howa Menzilden-Howa Menzile Gümrük Geçişi Bilen: Siziň ýükleriňizi netijeli dolandyrmak we iki tarapyň hem gümrük geçişini tiz ýerine ýetirmek.",
+        "Üstünlikli Howa Gatnawy Çözgütleri: Siziň üpjünçilik zynjyryňyz üçin doly hyzmat ýa-da ýöriteleşdirilen nokatdan nokada eltip bermek.",
+        "Kireý Hyzmatlary: Aýratyn ýük zerurlyklary üçin çeýe kireý mümkinçilikleri, şol sanda doly ýa-da bölekleýin kireý.",
+        "Hünärmen Gaplamak Hyzmatlary: Howa liniýalarynyň düzgünlerine laýyklykda işlenip düzülen ýörite gaplama çözgütleri.",
+        "Halkara Ygtybarly Agentler Ulgamy: Dünýäniň möhüm iş merkezlerinde netijeli global operasiýalar üçin giň agent ulgamy."
+      ]
+    },
+    "imageAlt": "Howa Gatnawy"
+  },
+  "SeaFreight": {
+    "heroTitle": "Dubaý, BAE-de ygtybarly deňiz ýükleri",
+    "heroDescription": "Global ýükler üçin tygşytly we ygtybarly çözgütler.",
+    "section1": {
+      "title": "Dubaý, BAE-de ygtybarly deňiz ýükleri",
+      "description": "Deňiz ýükleri halkara söwdanyň esasy bolup durýar, yklymlary birleşdirip tygşytly we ygtybarly ýükleri üpjün edýär. Tiz hyzmat üçin howa ýükleri iň gowusy bolsa-da, deňiz hyzmatlary tygşytly we amatly çözgüt hödürleýär."
+    },
+    "section2": {
+      "title": "Täze halkara ýük daşamak çözgütleri",
+      "description": "Amanullah Transport & Logistics ähli ýükleme zerurlyklaryňyzy üpjün edýär, şol sanda doly konteýnerler, howply materiallar we uly göwrümli ýükler."
+    },
+    "section3": {
+      "title": "Öňdebaryjy gözegçilik we halkara tejribe",
+      "description": "Amanullah Transport & Logistics müşderileriň ýüklemesine doly gözegçilik edýär, realtime täzelenmeleri üpjün edýär we ynam berýär."
+    },
+    "section4": {
+      "title": "2005 ýyldan bäri deňiz ýükleriniň hünärmenleri",
+      "highlights": [
+        "20 ýyldan gowrak tejribe bilen ilkinji derejeli hyzmat.",
+        "500+ halkara portlara hyzmat.",
+        "Resminamalar boýunça kömek we goldaw."
+      ]
+    },
+    "imageAlt": "Deňiz ýükleri"
+  },
+  "ProjectLogistics": {
+    "heroTitle": "Taslama logistikasy boýunça tejribeli hyzmatlar",
+    "heroDescription": "Başlangyç maslahat berişden sahypada ýygnamaklyga çenli doly taslamany dolandyrmak.",
+    "section1": {
+      "title": "Taslama logistikasy boýunça tejribeli çözgütler",
+      "description": "Amanullah Transport & Logistics uly göwrümli taslamalaryň çylşyrymlylygyny dolandyrmaga taýýar. Býudjeti meýilleşdirmek wagtynda maslahat berişden başlap, sahypada ýygnamaklyga çenli biz siziň taslama logistikanyňyzyň sazlaşykly ýerine ýetirilmegini üpjün edýäris. Biziň toparymyz agyr ýükler, uly göwrümli ýükler, howply materiallar we beýleki ugurlar boýunça tejribelidir."
+    },
+    "section2": {
+      "title": "Hünärleşdirilen ugurlar",
+      "description": "Biz aşakdaky taslama logistikasy hyzmatlaryna ýöriteleşýäris:",
+      "highlights": [
+        "Uçarlary we gämileri kärendesine almak",
+        "Nebit, gaz we energiýa daşaýyşlary",
+        "Howply materiallary daşamak",
+        "Bölek, Ro/Ro we konteýner ýük çözgütleri",
+        "Agyr ýükler we uly göwrümli daşaýyşlar",
+        "Harby we döwlet ýük daşamalary",
+        "Gaýyklar we ýatlar daşamak",
+        "Agyr ýükler üçin port amallaryny gözegçilikde saklamak",
+        "Sahypada wekilçilik we gözegçilik",
+        "Doly resminamalary taýýarlamak we akkreditasiýa hyzmatlary"
+      ]
+    },
+    "section3": {
+      "title": "Bütindünýä tor we ýörite goldaw",
+      "description": "Biziň ýöriteleşdirilen işgärler tarapyndan goldanylýan global tor biziň çylşyrymly logistikany netijeli dolandyrmagymyza mümkinçilik berýär, ýükleri islendik ýere wagtynda we howpsuz eltip bermeklige kepil geçýär. Resminamadan ýerli gümrük taýdan arassalaýança, her ädimde doly goldaw berýäris."
+    },
+    "imageAlt": "Taslama logistikasy"
+  },
+  "OverlandTransportation": {
+    "heroTitle": "Gury ýerüsti ulag hyzmatlary",
+    "heroDescription": "Harytlary gury ýer ugurlary boýunça ygtybarly, netijeli we howpsuz daşamak.",
+    "section1": {
+      "title": "Hünärmen ýerüsti ulag hyzmatlary",
+      "description": "Amanullah Transport & Logistics, üpjünçilik zynjyryňyzy optimizirlemek üçin gury ýerüsti ulag hyzmatlarynyň doly spektrini hödürleýär. Biziň tejribeli toparymyz GCC sebiti we Yrak boýunça ygtybarly we netijeli transport hyzmatlaryny üpjün edýär. Taslama ýükleri, bölek satuw ýa-da çylşyrymly logistika çözgütleri gerek bolsa, bizde gerekli tejribe we ulgam bar."
+    },
+    "section2": {
+      "title": "Biziň ýerüsti tejribämiz şulary öz içine alýar:",
+      "description": "Biz ýol we köp modally transportda ýöriteleşýäris, olaryň içinde:",
+      "list": [
+        "Halkara we içerki bölek satuw paýlanyşy",
+        "Taslama ýük daşamak",
+        "GCC we Yrak boýunça ýörite ýol transport hyzmatlary",
+        "Täze ýük akym çözgütleri",
+        "Iň çylşyrymly ýerlerde hem transport",
+        "Howpsuz we netijeli eltip bermek üçin tejribeli logistika topary"
+      ]
+    },
+    "section3": {
+      "title": "Üpjünçilik zynjyry bilen utgaşma",
+      "description": "Biziň hyzmatlarymyz üpjünçilik zynjyryňyzy doldurmak we güýçlendirmek üçin döredildi. Ýol we köp modally transporty beýleki logistika hyzmatlary bilen birleşdirip, harytlaryňyz wagtynda, howpsuz we amatly bahada eltilmegini üpjün edýäris."
+    }
+  },
+  "WarehousingLogistics": {
+    "heroTitle": "Dubaýda Amatly Ambar we Logistika Hyzmatlary",
+    "heroDescription": "Çeýe, täsirli we aýratyn ambar we logistika zerurlyklary üçin çözgütler.",
+    "section1": {
+      "title": "Giňişleýin Ambar we Logistika Çözgütleri",
+      "description": "Amanullah Transport & Logistics ambar we logistika hyzmatlarynyň giň görnüşini hödürleýär. Dubaýyň möhüm ýerlerinde ýerleşýän döwrebap desgalarymyz bilen biz saklama we paýlama zerurlyklaryňyzy iň ýokary netijelilik bilen üpjün edýäris."
+    },
+    "section2": {
+      "title": "Ambar mümkinçiliklerimiz şular:",
+      "description": "Amanullah Transport & Logistics ambar çözgütleriniň giň görnüşini hödürleýär:",
+      "highlights": [
+        "Harytlary paletlerde, açyk ammarlarda we dürli gaplarda (gutular, gaplar we ş.m.) saklamak",
+        "Howply ýükleri saklamak",
+        "Gaplamak, paletlemek we süýşme örtügi bilen dolama işleri",
+        "Adaty gaplama we bellik işleri",
+        "Ştrih kodlama we bellik hyzmatlary",
+        "Paketi belliklemek we elektron söwda paketlerini işlemek",
+        "Milli paýlama hyzmatlary (paketler, paletler we doly ýük maşynlary)",
+        "Halkara paýlama hyzmatlary (global hyzmatdaşlyklar arkaly)"
+      ]
+    },
+    "section3": {
+      "title": "Tehnologiýa birleşdirmek we giňelmek mümkinçilikleri",
+      "description": "Ýol kartamyz, müşderiler üçin aç-açanlygy ýokarlandyrmak we iş akymlaryny optimizirlemek üçin ambar işleýişimize ösen tehnologiýalary girizmegi öz içine alýar. Köptaraplaýyn ambar mümkinçiliklerimizi we köp ulanyjynyň işleriniň artykmaçlygyny üpjün etmek bilen müşderilerimize uly tygşytlylyk hödürleýäris."
+    },
+    "imageAlt": "Ambar we logistika"
+  },
+  "CustomsBrokerage": {
+    "heroTitle": "Gümrükçilik hyzmatlary",
+    "heroDescription": "Eltip bermek wagtyny we düzgünlere laýyklygy üpjün etmek üçin hünärmen gümrük rugsady we gümrükçilik hyzmatlary.",
+    "section1": {
+      "title": "Netijeli we ygtybarly gümrükçilik",
+      "description": "Amanullah Transport & Logistics gümrük rugsady we gümrükçilik hyzmatlarynyň hünärmeni. Gümrük işindäki gijikdirmeleriň goşmaça çykdajylara we ammar talaplaryna sebäp bolýandygyny bilýäris, şonuň üçin iberişleriňiz üçin wagtynda we netijeli rugsady üpjün etmegi maksat edinýäris. Biziň tejribeli toparymyz bahalandyrma, barlag, klassifikasiýa we elektron rugsady işlemek üçin taýýarlykly."
+    },
+    "section2": {
+      "title": "Esasy gümrükçilik hyzmatlary:",
+      "description": "Gümrükçilik hyzmatlarymyz üpjünçilik zynjyryňyzy ýeňilleşdirmek üçin döredildi:",
+      "highlights": [
+        "Ibärilýän harytlaryň ýeňil we wagtynda rugsadyny üpjün etmek",
+        "Takyk bahalandyrma, barlag we klassifikasiýa hyzmatlary",
+        "Has çalt işlemek üçin elektron rugsatlar (E-clearance)",
+        "Detallary bilen resminamalar bilen işlemek we tabşyrmak",
+        "Ýerli we halkara düzgünlere laýyk doly dolandyryş",
+        "Ibärmeleri gijikdirmek we jerimelerden gaça durmak üçin täsirli töwekgelçiligi dolandyrmak",
+        "Ýerli we halkara iberişler üçin wagtynda eltip bermek kepilligi"
+      ]
+    },
+    "section3": {
+      "title": "Ygtybarly topar we ýokary tehnologiýa",
+      "description": "Biziň tejribeli hünärmenlerimiz, resminama işinde ýokary täzelikler bilen üpjün edilýär. Täzerleriň netijeliligini ýokarlandyrmak üçin, biziň hyzmatlarymyz iň ýokary standartlara laýyklykda gümrükden geçmegi üpjün edýär."
+    },
+    "imageAlt": "Gümrükçilik"
+  },
+  "ShipAgency": {
+    "heroTitle": "Gämi agentçiligi hyzmatlary",
+    "heroDescription": "Deňiz amallarynyň rahat we çalt geçmegini üpjün edýän gämi agentligi hyzmatlary.",
+    "section1": {
+      "title": "Ygtybarly gämi agentligi hyzmatlary",
+      "description": "Amanullah Transport & Logistics, Dubaýda öňdebaryjy gämi agentleriniň biri bolup, ýerli we halkara ýük daşama zerurlyklary üçin giňişleýin goldaw hödürleýär. Biziň dünýä derejesindäki hyzmatdaşlarymyzyň we ýerli gämi agentlerimiziň giň ulgamymyz, ýük eýelerine, gämi eýelerine we operatorlaryna üznüksiz hyzmatlary hödürlemäge mümkinçilik berýär."
+    },
+    "section2": {
+      "title": "Gämi agentligi hyzmatlarymyza girýär:",
+      "description": "Hyzmatlarymyz deňiz amallarynyň ähli taraplaryny öz içine alýar:",
+      "highlights": [
+        "Gämi amallary üçin hünärmen gämi agentleri",
+        "Hyzmatlary we logistika goldawy",
+        "Ekipaj çalşygy",
+        "Gämi üpjünçilik hyzmatlary",
+        "Port dolandyryşy",
+        "Her bir gämi zerurlyklaryna laýyklykda aýratyn çözgütler"
+      ]
+    },
+    "section3": {
+      "title": "Her portda ygtybarlylyk we hünärçilik",
+      "description": "Amanullah Transport & Logistics gämiçilik pudagynda ýyllaryň dowamynda gazanan tejribesi bilen üpjün edýär. Şeýle hem, müşderileriň ähli talaplaryna çalt we ygtybarly çözümler berýär."
+    },
+    "imageAlt": "Gämi agentçiligi"
+  },
+  "LashingPacking": {
+    "heroTitle": "Ýük daşaýyş üçin baglaýyş we gaplama hyzmatlary",
+    "heroDescription": "Ýükleriňizi howpsuz we zeper ýetmezden daşamak.",
+    "section1": {
+      "title": "Howpsuz we netijeli baglaýyş we gaplama",
+      "description": "Amanullah Transport & Logistics, ýükleriň howpsuz we netijeli daşalmagynda dogry baglaýyş we gaplamanyň möhüm roluny gowy bilýär. Biziň tejribeli işgärlerimiz iň soňky baglaýyş we gaplama tehnikalaryny bilýär, ýükleriňiziň ýolda zeper ýetmezden saklanmagyny we ygtybarly baglanmagyny üpjün edýär. Ýerli ýa-da halkara ulaglar üçin, biz size ýöriteleşdirilen hyzmatlary hödürleýäris."
+    },
+    "section2": {
+      "title": "Baglaýyş we gaplama näme üçin wajyp?",
+      "description": "Dogry baglaýyş we gaplama ýükleriň gatnaw wagtynda süýşmeginiň öňüni alýar we bu zeper töwekgelçiligini azaldýar. Bu aýratyn ýuka, uly ýa-da agyr ýükler üçin möhüm ädimdir. Biziň hyzmatlarymyz ähli ýükleriňizi howpsuz materiallar we usullar bilen daşamagy üpjün edýär."
+    },
+    "section3": {
+      "title": "Baglaýyş we gaplama hyzmatlarymyz:",
+      "description": "Biz siziň ýükleriňiziň zerurlyklaryny üpjün etmek üçin baglaýyş we gaplama hyzmatlaryny hödürleýäris:",
+      "highlights": [
+        "Arkanlar, zynjyrlar we torlar bilen ýükleri howpsuz baglamak",
+        "Zeper töwekgelçiligi ýokary ýükler üçin ýöriteleşdirilen gaplama",
+        "Agyr ýükleri we uly harytlary netijeli dolandyrmak",
+        "Materiallary netijeli saklamak we daşamak",
+        "Her görnüşli ýük üçin amatly hyzmatlar"
+      ]
+    },
+    "imageAlt": "Baglaýyş we gaplama"
+  },
+  "IOREORLogistics": {
+    "heroTitle": "IOR / EOR Logistika Hyzmatlary",
+    "heroDescription": "Çäkaraüsti söwdany ygtybarly IOR/EOR çözgütleri bilen ýönekeýleşdirmek.",
+    "section1": {
+      "title": "IOR/EOR Hyzmatlary bilen Global Söwdany Ýönekeýleşdirmek",
+      "description": "Amanullah Transport & Logistics kompaniýasynda biz çäkaraüsti söwdanyň çylşyrymlylygyny we kompaniýalaryň halkara giňelmeginde duş gelýän kynçylyklaryny gowy bilýäris. IOR (Hasaba alnan importçy) we EOR (Hasaba alnan eksportçy) hyzmatlarymyz her bir ýurtda fiziki ýerleşiş gurmagyň zerurlygyny aradan aýyrýan ýönekeý çözgüt hödürleýär. Gümrük, logistika we üpjünçilik zynjyry amallaryny çuňňur düşünmek bilen müşderilerimize ygtybarly we durnukly iş çözgütlerini hödürleýäris."
+    },
+    "section2": {
+      "title": "IOR/EOR Hyzmatlarymyzyň Esasy Üstünlikleri",
+      "description": "Biziň IOR/EOR çözgütlerimiz halkara operasiýalaryňyzy ýeňilleşdirmek üçin birnäçe peýdalary hödürleýär:",
+      "list": [
+        "IOR/EOR jogapkärçilikleriňizi daşarky hyzmat bilen minimalize etmek",
+        "Gümrük arassalaýyş we resminama dolandyryşyny ýeňilleşdirmek",
+        "Her ýurtda ýerli korporatiw ýerleşiş gurmazdan global bazarlara girmek",
+        "Birnäçe ýurtda netijeli salgyt we düzgünleşdirme laýyklygy",
+        "IOR/EOR zerurlyklary üçin bir nokatly merkezi fakturalama we aragatnaşyk"
+      ]
+    },
+    "section3": {
+      "title": "IOR/EOR Hyzmatlarymyz:",
+      "description": "Biz IOR/EOR bilen baglanyşykly doly hyzmatlary hödürleýäris:",
+      "list": [
+        "Import we eksport amallarynda gümrük arassalaýyş üçin IOR/EOR hökmünde hereket etmek",
+        "Düzgünnamalar boýunça talap edilýän gümrük ýazgylaryny saklamak we arhiwlemek",
+        "Regulýator edaralardan zerur rugsatlar we ygtyýarnamalary almak",
+        "Transport wagtynda harytlary ammarlamak çözgütleri hödürlemek",
+        "Näsaz ýa-da zaýalanan önümler üçin abatlama we yzyna gaýtaryş hyzmatlary hödürlemek"
+      ]
+    }
+  },
+  "ValueAddedLogistics": {
+    "heroTitle": "Gymmat Bahaly Logistika Hyzmatlary",
+    "heroDescription": "Doly hyzmatlarymyz bilen logistika operasiýalaryňyzy kämilleşdiriň.",
+    "section1": {
+      "title": "Gymmat Bahaly Logistika Hyzmatlaryna Syn",
+      "description": "Amanullah Transport & Logistics kompaniýasynda, logistika operasiýalaryňyzy ýeňilleşdirmäge we gowulandyrmaga gönükdirilen goşmaça gymmatly hyzmatlaryň giň görnüşini hödürleýäris."
+    },
+    "section2": {
+      "title": "Esasy Gymmatly Hyzmatlarymyz:",
+      "list": [
+        "FZE we Mainland kompaniýalary üçin girýän we çykýan ýükleri guramak",
+        "Biziň dünýä derejesindäki hyzmatdaşlar torumyz arkaly üstaşyr söwda",
+        "Gümrük arassalaýyş we eltip bermek hyzmatlary"
+      ]
+    },
+    "section3": {
+      "title": "Gümrük we Şahadatnama Hyzmatlary",
+      "description": "Biz ähli zerur resminamalary taýýarlamaga kömek edýäris, şol sanda:",
+      "list": [
+        "Dubaý Gümrük: Import, eksport we erkin zonalarda içerki geçirişler üçin resminamalary arassalamak",
+        "Dubaý Söwda Palatasy: Asyl şahadatnamalaryna ýüz tutmak we müşderilere gowşurmak"
+      ]
+    }
+  },
+  "IntegratedITSystemSolutions": {
+    "heroTitle": "Logistika üçin integrirlenen IT ulgam çözümleri",
+    "heroDescription": "Täze ERP çözgütleri bilen logistikaňyzy netijeli ediň.",
+    "section1": {
+      "title": "Okean we Howa ýük daşamalary üçin ERP çözgütleri",
+      "description": "Amanullah Transport & Logistics, size integrirlenen programmalaryň kömegi bilen logistikanyň ähli meýdanlaryny ýönekeýleşdirmegi teklip edýär. Ulgam bar bolan platforma bilen aňsat integrasiýa edýär we öndürijiligi ýokarlandyrýar."
+    },
+    "section2": {
+      "title": "IT ulgam modulary:",
+      "list": [
+        "Satuwy dolandyrmak",
+        "Müşderi gatnaşyklaryny dolandyrmak (CRM)",
+        "Real wagt yzarlamak we yzarlamak",
+        "EDI üçin maglumat alyş-çalşygy",
+        "Gümrük we düzgün dolandyryşy",
+        "Konteýner ýük bekedi (CFS)",
+        "Resminamalary dolandyrmak",
+        "NVOCC hyzmatlary",
+        "Taslama ýüklerini dolandyrmak",
+        "Dolandyryş maglumat ulgamy (MIS)"
+      ]
+    },
+    "section3": {
+      "title": "Esasy aýratynlyklar:",
+      "list": [
+        "Gözegçilikden geçişde habar bermek",
+        "Mobil programmalarda real wagt yzarlamak",
+        "EDI integrasiýasy",
+        "Çykdajylary paýlamak",
+        "Karar bermek üçin hasabatlar",
+        "WMS we CFS üçin PDA",
+        "Buýruk dolandyryşy",
+        "Valýutaly dolandyryş"
+      ]
+    }
+  },
+  "DangerousGoodsStorageAndTransportation": {
+    "heroTitle": "Howply harytlary saklamak we daşamak",
+    "heroDescription": "Howa, deňiz, ýol we demir ýol arkaly howply harytlary ygtybarly we degişli dolandyrmak.",
+    "section1": {
+      "title": "Howply harytlary hünärmen dolandyryş",
+      "description": "Amanullah Transport & Logistics howply harytlary daşamak, saklamak we dolandyrmak bilen baglanyşykly çylşyrymly meseleleri bilýär. Zäherli, ýangynly ýa-da poslamaýan maddalar bolsa-da, biz harytlaryňyzyň gelip çykan ýerinden barmaly ýerine çenli ygtybarly dolandyrylmagyny üpjün edýän häzirki zaman çözgütleri hödürleýäris. Biz howply harytlaryň ähli dokuz klassa hyzmat edýäris we binalarymyz partlaýjy materiallar üçin howpsuzlyk ülňülerine laýyk gelýär."
+    },
+    "section2": {
+      "title": "Howply harytlaryň hyzmatlarynyň doly toplumlary",
+      "description": "Howply harytlary howpsuz we netijeli daşamak we saklamak üçin doly hyzmatlary hödürleýäris:",
+      "list": [
+        "DG klassifikasiýasyna laýyklykda howply materiallary saklamak",
+        "Howply harytlary hünärli gaplamak, belliklemek we resminamalary taýýar etmek",
+        "Howply harytlaryň gümrük taýdan resmileşdirilmegi",
+        "Howa, deňiz, ýol we demir ýol arkaly global transport",
+        "Halkara howpsuzlyk we işlemek standartlaryna doly laýyk gelmek"
+      ]
+    }
+  },
+  "AboutUs": {
+    "heroTitle": "Bütin dünýäde ýokary hilli hyzmat bermek",
+    "heroDescription": "Biz ygtybarly, netijeli we tygşytly eltip bermek çözgütlerini hödürlemäge borçlanýarys. Dünýä derejesindäki gatnaşygymyz bilen, harytlaryňyzyň bellenilen ýere wagtynda, her gezek ýetmegini üpjün edýäris.",
+    "findUsOn": "Bizi şu ýerlerden tapyň",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/amanullah_logistics",
+      "instagram": "https://www.instagram.com/amanullah_logistics",
+      "tiktok": "https://www.tiktok.com/@amanullah_logistics?_t=8rAd15GTIhe&_r=1",
+      "whatsapp": "https://wa.me/+971522324064",
+      "phone": "tel:+97142255735"
+    }
+  },
+  "Information": {
+    "companyHistory": {
+      "title": "Kompaniýanyň taryhy",
+      "description": "2005-nji ýyldan bäri döredildi - Birleşen Arap Emirlikleri, Dubaý."
+    },
+    "ourTeam": {
+      "title": "Biziň toparymyz",
+      "description": "Amanullah Transport & Logistics kompaniýasy döredileninden bäri ýük daşama amallaryny giňeldip, taslama iberilýän ýükleri, howa, enjam daşama we howply ýükleri goşdy."
+    },
+    "missionStatement": {
+      "title": "Missiýamyz",
+      "description": "Hil taýdan ýokary logistika çözgütlerini bermek we müşderilerimiziň halkara üpjünçilik zynjyrlaryny ýokarlandyrmak, olaryň ösüşine we bäsdeşlige ukyplylygyna goldaw bermek. Müşderiniň kanagatlanmagyny iň ýokary ileri tutmak we durnukly, aç-açan we bahalardan habarly hyzmaty saklamak."
+    },
+    "visionStatement": {
+      "title": "Biziň görnüşimiz",
+      "description": "Bütin dünýäde müşderilerimize we üpjünçilik zynjyrlaryna täsirli, ýöriteleşdirilen, birleşdirilen logistika çözgütleri bilen goldaw bermek."
+    },
+    "flipCard": {
+      "front": {
+        "title": "2005-nji ýyldan bäri ajaýyp hyzmat",
+        "description": "Amanullah Transport & Logistics bilen dünýä derejesindäki logistika çözgütlerini başdan geçiriň."
+      },
+      "back": {
+        "title": "Biziň borjumyz",
+        "description": "Ösüşiňize uýgunlaşdyrylan ýöriteleşdirilen logistika çözgütleri bilen global üpjünçilik zynjyrlaryny ýönekeýleşdirmek.",
+        "actionLabel": "Köpräk öwreniň"
+      }
+    }
+  },
+  "Featuring": {
+    "successfulDeliveries": {
+      "count": 5234,
+      "title": "Üstünlikli eltilen ýükler",
+      "description": "Dürslük bilen ýerine ýetirildi we müşderileriň ählumumy garaşlaryny kanagatlandyrdy."
+    },
+    "clientsServed": {
+      "count": 3400,
+      "suffix": "+",
+      "title": "Hyzmat edilen müşderiler",
+      "description": "Senagat boýunça ynam we uzak möhletleýin hyzmatdaşlyklary döretmek."
+    },
+    "customerSupport": {
+      "count": 24,
+      "suffix": "/7",
+      "title": "Müşderi goldawy",
+      "description": "Üznüksiz amallary üpjün etmek üçin gije-gündiz kömek bermek."
+    }
+  },
+  "ContactUs": {
+    "title": "Bize habarlaşyň!",
+    "description": "Biz ähli logistiki zerurlyklaryňyz bilen kömek etmek üçin şu ýerdediris. Formany dolduryň, we biziň toparymyz tiz wagtda size gaýdyp geler.",
+    "contactInfoTitle": "Habarlaşmak Maglumaty",
+    "contactInfoDescription": "Formany dolduryň, we biziň toparymyz size 24 sagadyň içinde gaýdyp habar berer.",
+    "formLabels": {
+      "name": "Meniň adym",
+      "namePlaceholder": "Doly Ady",
+      "phone": "Meniň Kontakt Belgim",
+      "phonePlaceholder": "Kontakt Belgi",
+      "email": "Meniň emailim",
+      "emailPlaceholder": "Email Salgy",
+      "message": "Siziň habaryňyz",
+      "messagePlaceholder": "Men şuny aýdasy gelýär..."
+    },
+    "formButton": {
+      "submit": "Habar Ugratmak",
+      "loading": "Ugradylýar..."
+    },
+    "contactDetails": {
+      "phone": "Telefon",
+      "email": "Email",
+      "address": "Salgysy",
+      "phoneValue": "(+971) 42 25 5735",
+      "emailValue": "info@amanullahgroup.ae",
+      "addressValue": "Bniyas Kompleksi, B blog, 7-nji Gat 701, Deira, Dubaý."
+    },
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/amanullahlogistics",
+      "instagram": "https://www.instagram.com/amanullah_logistics",
+      "tiktok": "https://www.tiktok.com/@amanullah_logistics?_t=8rAd15GTIhe&_r=1",
+      "whatsapp": "https://wa.me/+971522324064",
+      "phone": "tel:+97142255735"
+    }
+  },
+  "Home": {
+    "heroSection": {
+      "title": "LOGISTIKANY BIZE TABŞYRYŇ.",
+      "subtitle": "Biziň iň gymmatly çeşmämiz biziň toparymyz.",
+      "description": "Amanullah Transport & Logistics-iň ýokary derejeli logistik hyzmatlary üpjün etmeginiň arkasynda durýan toparyň tagallasy we ruhubelentligi bolup durýar."
+    },
+    "thankYou": {
+      "title": "Goldawyňyz üçin sag boluň!",
+      "description": "Biz dünýäniň ähli ýerinde ynamdar logistik çözgütler berýäris."
+    },
+    "socialButtons": {
+      "facebook": "Facebook-da paýlaşyň",
+      "instagram": "Instagram-da bizi yzarlaň",
+      "tiktok": "TikTok-da bizi yzarlaň",
+      "whatsapp": "WhatsApp arkaly habarlaşyň",
+      "call": "Bize jaň ediň"
+    }
+  },
+  "HeroSection": {
+    "headings": {
+      "heading1": "ÝÜK DAŞAMA WE LOGISTIKADA ÜSTÜNLIK",
+      "heading2": "DÜNIÝÄNI BIR ÝÜK BILEN BAGLAŞDYRÝAR",
+      "heading3": "AHYRÇY LOGISTIKA ÇÖZGÜDI",
+      "heading4": "ÝÜK DAŞAMA WE LOGISTIKADA ÜSTÜNLIK",
+      "heading5": "DÜNIÝÄNI BIR ÝÜK BILEN BAGLAŞDYRÝAR",
+      "heading6": "AHYRÇY LOGISTIKA ÇÖZGÜDI"
+    },
+    "paras1": {
+      "para1": "DUBAÝDA ÝÜK DAŞAMA KOMPANIÝALARY",
+      "para2": "BIZ SIZIŇ ÄHLI LOGISTIKIÝA ISLEÝIŇIZI ÜSTÜNLIKLI ETÝÄRIS",
+      "para3": "ÖZ TAÝÝAR, ŞAHSY TÄZELENEN TÖWEL LOGISTIKA UGRUŇYZ",
+      "para4": "DUBAÝDA ÝÜK DAŞAMA KOMPANIÝALARY",
+      "para5": "BIZ SIZIŇ ÄHLI LOGISTIKIÝA ISLEÝIŇIZI ÜSTÜNLIKLI ETÝÄRIS",
+      "para6": "ÖZ TAÝÝAR, ŞAHSY TÄZELENEN TÖWEL LOGISTIKA UGRUŇYZ"
+    },
+    "paras2": {
+      "para1": "2005-NJI ÝYLDAN BAŞLANAN LOGISTIKA HYZMATDAŞYNYZ",
+      "para2": "",
+      "para3": "",
+      "para4": "",
+      "para5": "",
+      "para6": ""
+    }
+  },
+  "InfoSection": {
+    "card1": {
+      "title": "Global Ýetenok",
+      "description": "Biziň giň hyzmatdaşlar torumyz, dünýäniň islendik ýerinden öýüňiziň bosagasy bilen çäklendirilip işlenip, gapyňyza ýetirilmegini üpjün edýär."
+    },
+    "card2": {
+      "title": "Logistika Üstünligi",
+      "description": "Biz logistik çözgütleri hödürleýäris, ýüküňiziň wagtynda we kämil ýagdaýda eltilmegini üpjün edýäris."
+    },
+    "card3": {
+      "title": "Synagdan Geçen Netijeler",
+      "description": "Müşderilerimiz bize ynanýarlar, sebäbi biz wada berlen zatlary ýerine ýetirýäris, logistik tejribesini başdan ahyryna çenli üýtgewsiz üpjün edýäris."
+    }
+  },
+  "Counters": {
+    "counter1": {
+      "count": 30,
+      "suffix": "+",
+      "title": "Işewürlikde geçen ýyllar",
+      "description": "Ýük daşamak we logistika çözümleri boýunça üstünlige gönükdirilen"
+    },
+    "counter2": {
+      "count": 97,
+      "suffix": "%",
+      "title": "Müşderi saklamak",
+      "description": "Müşderiler bilen ynamly we kanagatly gatnaşyklary döretmek"
+    },
+    "counter3": {
+      "count": 30,
+      "suffix": "%",
+      "title": "Ýyllyk ösüş",
+      "description": "Her ýyl durnukly ösüş gazanmak"
+    }
+  },
+  "BuiltByDevelopers": {
+    "title": "Dubaý, BAE-de ýerleşýän ýük daşamak we halkara iberiş hünärmenleri",
+    "description": "Ýük daşamak we iberişde 20 ýyldan gowrak tejribämiz bilen, şahsy we söwda harytlaryňyzy Dubaý, BAE-däki dürli ýerlerimize netijeli we seresaplylyk bilen daşap bileris. 2005-nji ýyldan bäri, howa ýük daşamasy, daňmak we deňiz ýük daşamalary boýunça öňdebaryjy halkara hyzmat üpjün edijisi bolduk.",
+    "learnMore": "Köp öwreniň"
+  },
+  "AllServices": {
+    "sectionTitle": "Biziň Hyzmatlarymyz",
+    "services": {
+      "AirFreightService": "Howa Ýük Hyzmaty",
+      "SeaFreightService": "Deňiz Ýük Hyzmaty",
+      "ProjectLogistics": "Taslama Logistikasy",
+      "OverlandTransportationService": "Ýer Üsti Gatnawy Hyzmaty",
+      "WarehousingLogisticsService": "Ammar Logistik Hyzmaty",
+      "CustomsBrokerageService": "Gümrük Goşundysy Hyzmaty",
+      "ShipAgencyService": "Gämilik Agentlik Hyzmaty",
+      "LashingPackingService": "Baglamak we Gaplamak Hyzmatlary",
+      "IOR-EOR-Logistics-Service": "IOR EOR Logistik Hyzmaty",
+      "Value-Added-Logistics-Services": "Görnükli Logistik Hyzmatlar",
+      "Integrated-IT-System-Solutions": "Integrirlenen IT Ulgam Çözgütleri",
+      "Dangerous-Goods-Storage-And-Transportation": "Howply Harytlaryň Saklanyşy we Gatnawy"
+    }
+  },
+  "Quote": {
+    "title": "Bahany Al",
+    "tabs": {
+      "containerized": "Konteýnerleşdirilen",
+      "breakBulk": "Uly Bölek",
+      "heavyLift": "Agyr Ýük",
+      "truck": "Ýük maşyny",
+      "air": "Howa"
+    }
+  },
+  "Forms": {
+    "full_name": "Doly ady",
+    "email": "Elektron poçta salgysy",
+    "phone_number": "Telefon belgisi",
+    "company_name": "Kompaniýanyň ady",
+    "origin_port": "Başlangyç port",
+    "destination_port": "Barmaly port",
+    "commodity_value": "Haryt bahasy (USD)",
+    "gross_weight": "Jemi agramy",
+    "length": "Uzynlygy",
+    "width": "Ini",
+    "height": "Beýikligi",
+    "number_of_packages": "Pakediň sany",
+    "package_type": "Pakediň görnüşi",
+    "refrigerated_temperature": "Sowadyjy temperaturasy (°C)",
+    "mco_class_un_number": "IMCO synpy we BMG belgisi",
+    "comments": "Teswirler",
+    "commodity": "Harydy saýlaň",
+    "load_type": "Ýük görnüşini saýlaň",
+    "container_type": "Konteýneriň görnüşi",
+    "weight_unit": "Agram birligi",
+    "refrigerated": "Sowadyjy",
+    "hazardous": "Howply",
+    "add_insurance": "Ätiýaçlandyryş goşmak",
+    "incoterms": "Incoterms saýlaň",
+    "unit_type": "Birligiň görnüşi",
+    "mode": "Režim",
+    "international": "Halkara",
+    "origin_country": "Başlanýan ýurt",
+    "destination_country": "Barmaly ýurt",
+    "flatbed": "Tekiz platforma",
+    "hazardous_shipment": "Howply ýük",
+    "inside_limited_access_delivery": "Çäklendirilen elýeterlik zolagynda eltmek",
+    "inside_limited_access_pickup": "Çäklendirilen elýeterlik zolagynda almak",
+    "residential_pickup": "Ýaşaýyş ýerinden almak",
+    "residential_delivery": "Ýaşaýyş ýerine eltmek",
+    "origin_airport": "Başlangyç howa menzili",
+    "destination_airport": "Barmaly howa menzili",
+    "fcl": "FCL (Doly konteýner ýüklemesi)",
+    "lcl": "LCL (Konteýnerden az ýüklemesi)",
+    "customs_in_bond_freight": "Gümrük ýa-da bonda edilen ýük",
+    "accessorial_charges": "Goşmaça tölegler",
+    "container_20ft": "20 fut",
+    "container_40ft": "40 fut",
+    "container_45ft": "45 fut",
+    "container_53ft": "53 fut",
+    "weight_lb_ln": "lb / ln",
+    "weight_kg_cm": "kg / cm",
+    "metric_tons": "Metrik tonnalar",
+    "tons": "Tonnalar",
+    "kgs": "Kilogramlar",
+    "lbs": "Funtlar",
+    "meters": "Metrler",
+    "yards": "Ýardlar",
+    "feet": "Aýaklar",
+    "inches": "Dýuýmler",
+    "loose_bulk": "Dökme ýük",
+    "package_bulk": "Gaplanan ýük",
+    "submitting": "Iberilýär...",
+    "submit": "Iber"
+  },
+  "commodityOptions": {
+    "agriculture": "Oba hojalygy (miwe we gök önümler)",
+    "apparel": "Geýim",
+    "automobiles_motorcycles": "Awtoulaglar we motosikller",
+    "automobile_motorcycle_parts": "Awtoulag we motosikl bölekleri",
+    "arts_crafts": "Sungat we senet",
+    "beauty_personal_care": "Gözellik we şahsy ideg",
+    "chemicals": "Himiýa maddalary",
+    "computer_hardware_software": "Kompýuter enjamlary we programmalary",
+    "construction_equipment": "Gurluşyk enjamlary",
+    "construction_materials": "Gurluşyk materiallary",
+    "consumer_electronics": "Sarp ediji elektronika",
+    "electrical_equipment_supplies": "Elektrik enjamlary we üpjünçilik",
+    "electronic_components_supplies": "Elektron komponentler we üpjünçilik",
+    "fashion_accessories": "Moda goşundylary",
+    "bottled_beverages": "Çüýşe içgiler",
+    "bottled_products_non_beverages": "Çüýşe önümleri (içgi däl)",
+    "food_perishable": "Bozulýan azyk önümleri",
+    "food_non_perishable": "Bozulmaýan azyklar (meselem, däne we däneler)",
+    "food_frozen": "Doňdurylan azyklar",
+    "food_frozen_meat": "Doňdurylan et",
+    "furniture_new_branded": "Täze mebeller (hili bellikli)",
+    "furniture_used": "Ulanylan mebeller",
+    "hardware": "Enjamlar we gurallar",
+    "health_medical_supplies": "Saglyk we lukmançylyk üpjünçiligi",
+    "home_appliances": "Öý enjamlary",
+    "home_garden": "Öý we bag",
+    "household_goods": "Öý hojalyk harytlary",
+    "lights_lighting": "Çyralar we yşyklandyryş",
+    "luggage_bags_cases": "Süýrenler, sumkalar we halta",
+    "mechanical_fabrication_parts": "Mehaniki we öndürijilik bölekleri",
+    "machinery": "Enjamlar",
+    "measurement_analysis_instruments": "Ölçeg we analiz gurallary",
+    "minerals_metallurgy": "Minerallar we metallurgiýa",
+    "office_school_supplies": "Ofis we mekdep üpjünçiligi",
+    "packaging_printing": "Gaplama we çap etmek",
+    "rubber_plastics": "Rezin we plastik",
+    "security_protection": "Howpsuzlyk we gorag",
+    "shoes_accessories": "Aýakgaplar we goşundylary",
+    "sports_entertainment": "Sport we güýmenje",
+    "telecommunications": "Aragatnaşyk",
+    "textiles_leather_products": "Dokma we deri önümleri",
+    "timepieces_jewelry_eyewear": "Saatlar, şaý-sepler we äýnekler",
+    "tools": "Gural",
+    "toys_hobbies": "Oýunçylar we hobi",
+    "transportation": "Transport",
+    "boats_yacht": "Gaýyklar (Ýatlar)",
+    "coils_pipes": "Şemler we turbalar",
+    "grains": "Däneler",
+    "heavy_equipment": "Agyr enjamlary",
+    "locomotives": "Lokomotiwler",
+    "power_generation": "Energiýa öndürmek",
+    "steel_structures": "Polat gurluşlar",
+    "sensitive_equipment": "Duýgur enjamlar",
+    "timber": "Agaç materiallary",
+    "general_merchandise": "Umumy harytlar",
+    "new_used_machinery": "Täze ýa-da ulanylan enjamlar",
+    "fragile_goods": "Näzik harytlar",
+    "computers_electronics": "Kompiýuterler/Elektronika",
+    "fine_arts": "Çeper sungat",
+    "motorcycles_autos": "Motosikller we awtoulaglar",
+    "precision_instruments": "Takyk enjamlar",
+    "chemicals_hazardous_materials": "Himiýa/Howply materiallar",
+    "steel_sheets_coils_bars": "Polat listler, rulonlar we çyzgylar",
+    "branded_goods": "Markaly harytlar",
+    "non_perishable_food": "Bozulmaýan iýmit",
+    "frozen_foods_excluding_meat": "Doňdurylan iýmitler (etden başga)",
+    "frozen_meats": "Doňdurylan etler",
+    "yachts": "Ýatlar",
+    "jewelry": "Zergärlik önümleri"
+  },
+  "incotermsOptions": {
+    "fca_free_carrier": "FCA - Mugt Daşaýjy",
+    "cpt_carriage_paid_to": "CPT - Tölegi tölenilen daşama",
+    "cip_carriage_and_insurance_paid_to": "CIP - Tölegi we ätiýaçlandyryşy tölenilen daşama",
+    "dap_delivered_at_place": "DAP - Ýerine eltildi",
+    "dpu_delivered_at_place_unloaded": "DPU - Ýerinde düşürilen",
+    "ddp_delivered_duty_paid": "DDP - Tölegi tölenilen",
+    "fas_free_alongside_ship": "FAS - Gäminiň ýanynda mugt",
+    "fob_free_on_board": "FOB - Bortda mugt",
+    "cfr_cost_and_freight": "CFR - Bahasy we daşama",
+    "cif_cost_insurance_and_freight": "CIF - Bahasy, ätiýaçlandyryşy we daşama",
+    "exw_ex_works": "EXW - Zawoddan eltip bermek"
+  },
+  "Countries": {
+    "afghanistan": "Owganystan",
+    "albania": "Albaniýa",
+    "algeria": "Alžir",
+    "andorra": "Andorra",
+    "angola": "Angola",
+    "antigua_deps": "Antigua we Barbuda",
+    "argentina": "Argentina",
+    "armenia": "Ermenistan",
+    "australia": "Awstraliýa",
+    "austria": "Awstriýa",
+    "azerbaijan": "Azerbaýjan",
+    "bahamas": "Bagam adalary",
+    "bahrain": "Bahreýn",
+    "bangladesh": "Bangladeş",
+    "barbados": "Barbados",
+    "belarus": "Belarus",
+    "belgium": "Belgiýa",
+    "belize": "Beliz",
+    "benin": "Benin",
+    "bhutan": "Butan",
+    "bolivia": "Boliwiýa",
+    "bosnia_herzegovina": "Bosniýa we Gersegowina",
+    "botswana": "Botswana",
+    "brazil": "Braziliýa",
+    "brunei": "Bruneý",
+    "bulgaria": "Bolgariýa",
+    "burkina": "Burkina-Faso",
+    "burundi": "Burundi",
+    "cambodia": "Kamboja",
+    "cameroon": "Kamerun",
+    "canada": "Kanada",
+    "cape_verde": "Kabo-Werde",
+    "central_african_rep": "Merkezi Afrika Respublikasy",
+    "chad": "Çad",
+    "chile": "Çili",
+    "china": "Hytaý",
+    "colombia": "Kolumbiýa",
+    "comoros": "Komor adalary",
+    "congo": "Kongo",
+    "congo_democratic_rep": "Kongo Demokratik Respublikasy",
+    "costa_rica": "Kosta-Rika",
+    "croatia": "Horwatiýa",
+    "cuba": "Kuba",
+    "cyprus": "Kipr",
+    "czech_republic": "Çehiýa",
+    "denmark": "Daniýa",
+    "djibouti": "Jibuti",
+    "dominica": "Dominika",
+    "dominican_republic": "Dominikan Respublikasy",
+    "east_timor": "Gündogar Timor",
+    "ecuador": "Ekwador",
+    "egypt": "Müsür",
+    "el_salvador": "El-Salwador",
+    "equatorial_guinea": "Ekwatorial Gwineýa",
+    "eritrea": "Eritreýa",
+    "estonia": "Estoniýa",
+    "ethiopia": "Efiopiýa",
+    "fiji": "Fiji",
+    "finland": "Finlýandiýa",
+    "france": "Fransiýa",
+    "gabon": "Gabondan",
+    "gambia": "Gambiýa",
+    "georgia": "Gruziýa",
+    "germany": "Germaniýa",
+    "ghana": "Gana",
+    "greece": "Gresiýa",
+    "grenada": "Grenada",
+    "guatemala": "Gwatemala",
+    "guinea": "Gwineýa",
+    "guinea_bissau": "Gwineýa-Bisau",
+    "guyana": "Gýana",
+    "haiti": "Gaiti",
+    "honduras": "Gonduras",
+    "hungary": "Wengriýa",
+    "iceland": "Islandiýa",
+    "india": "Hindistan",
+    "indonesia": "Indoneziýa",
+    "iran": "Eýran",
+    "iraq": "Yrak",
+    "ireland_republic": "Irlandiýa Respublikasy",
+    "israel": "Ysraýyl",
+    "italy": "Italiýa",
+    "ivory_coast": "Kot-d’Iwuar",
+    "jamaica": "Ýamaýka",
+    "japan": "Ýaponiýa",
+    "jordan": "Iordaniýa",
+    "kazakhstan": "Gazagystan",
+    "kenya": "Keniýa",
+    "kiribati": "Kiribati",
+    "korea_north": "Demirgazyk Koreýa",
+    "korea_south": "Günorta Koreýa",
+    "kosovo": "Kosowa",
+    "kuwait": "Kuweýt",
+    "kyrgyzstan": "Gyrgyzystan",
+    "laos": "Laos",
+    "latvia": "Latwiýa",
+    "lebanon": "Liwan",
+    "lesotho": "Lesoto",
+    "liberia": "Liberiýa",
+    "libya": "Liwiýa",
+    "liechtenstein": "Lihtenşteýn",
+    "lithuania": "Litwa",
+    "luxembourg": "Lýuksemburg",
+    "macedonia": "Makedoniýa",
+    "madagascar": "Madagaskar",
+    "malawi": "Malawi",
+    "malaysia": "Malaýziýa",
+    "maldives": "Maldiwler",
+    "mali": "Mali",
+    "malta": "Malta",
+    "marshall_islands": "Marşall adalary",
+    "mauritania": "Mawritaniýa",
+    "mauritius": "Mawrikiý",
+    "mexico": "Meksika",
+    "micronesia": "Mikroneziýa",
+    "moldova": "Moldowa",
+    "monaco": "Monako",
+    "mongolia": "Mongoliýa",
+    "montenegro": "Çernogoriýa",
+    "morocco": "Marokko",
+    "mozambique": "Mozambik",
+    "myanmar_burma": "Mýanma",
+    "namibia": "Namibiýa",
+    "nauru": "Nauru",
+    "nepal": "Nepal",
+    "netherlands": "Niderlandlar",
+    "new_zealand": "Täze Zelandiýa",
+    "nicaragua": "Nikaragua",
+    "niger": "Niger",
+    "nigeria": "Nigeriýa",
+    "norway": "Norwegiýa",
+    "oman": "Oman",
+    "pakistan": "Päkistan",
+    "palau": "Palau",
+    "panama": "Panama",
+    "papua_new_guinea": "Papua Täze Gwineýa",
+    "paraguay": "Paragwaý",
+    "peru": "Peru",
+    "philippines": "Filippinler",
+    "poland": "Polşa",
+    "portugal": "Portugaliýa",
+    "qatar": "Katar",
+    "romania": "Rumyniýa",
+    "russian_federation": "Russiýa Federasiýasy",
+    "rwanda": "Ruanda",
+    "st_kitts_nevis": "Sent-Kits we Newis",
+    "st_lucia": "Sent-Lýusiýa",
+    "saint_vincent_grenadines": "Sent-Winsent we Grenadinler",
+    "samoa": "Samoa",
+    "san_marino": "San-Marino",
+    "sao_tome_principe": "San-Tome we Prinsipi",
+    "saudi_arabia": "Saud Arabystany",
+    "senegal": "Senegal",
+    "serbia": "Serbiýa",
+    "seychelles": "Seýşel adalary",
+    "sierra_leone": "Sýerra-Leone",
+    "singapore": "Singapur",
+    "slovakia": "Slowakiýa",
+    "slovenia": "Sloweniýa",
+    "solomon_islands": "Solomon adalary",
+    "somalia": "Somali",
+    "south_africa": "Günorta Afrika",
+    "south_sudan": "Günorta Sudan",
+    "spain": "Ispaniýa",
+    "sri_lanka": "Şri-Lanka",
+    "sudan": "Sudan",
+    "suriname": "Surinam",
+    "swaziland": "Swazilend",
+    "sweden": "Şwesiýa",
+    "switzerland": "Şweýsariýa",
+    "syria": "Siriýa",
+    "taiwan": "Taýwan",
+    "tajikistan": "Täjigistan",
+    "tanzania": "Tanzaniýa",
+    "thailand": "Taýland",
+    "togo": "Togo",
+    "tonga": "Tonga",
+    "trinidad_tobago": "Trinidad we Tobago",
+    "tunisia": "Tunis",
+    "turkey": "Türkiýe",
+    "turkmenistan": "Türkmenistan",
+    "tuvalu": "Tuwalu",
+    "uganda": "Uganda",
+    "ukraine": "Ukraina",
+    "united_arab_emirates": "Birleşen Arap Emirlikleri",
+    "united_kingdom": "Birleşen Patyşalyk",
+    "united_states": "Amerikanyň Birleşen Ştatlary",
+    "uruguay": "Urugwaý",
+    "uzbekistan": "Özbegistan",
+    "vanuatu": "Wanuatu",
+    "vatican_city": "Watikan",
+    "venezuela": "Wenesuela",
+    "vietnam": "Wýetnam",
+    "yemen": "Ýemen",
+    "zambia": "Zambiýa",
+    "zimbabwe": "Zimbabwe"
+  },
+  "Footer": {
+    "brand": {
+      "name": "Amanullah Transport & Logistics"
+    },
+    "menus": {
+      "company": "Kompaniýa",
+      "project": "Taslama",
+      "aboutUs": "Biz hakda",
+      "allServices": "Ähli Hyzmatlar",
+      "moreServices": "Has Köpräk Hyzmatlar",
+      "helpSupport": "Kömek we Goldaw",
+      "contactUs": "Biz bilen habarlaşyň",
+      "getQuote": "Nyrh alyň",
+      "airFreight": "Howa Gatnawy Hyzmaty",
+      "seaFreight": "Deňiz Gatnawy Hyzmaty",
+      "projectLogistics": "Taslama Logistikasy",
+      "overlandTransport": "Gury Ýer Gatnawy Hyzmaty",
+      "warehousingLogistics": "Ambar Logistika Hyzmaty",
+      "customsBrokerage": "Gümrük Maklerlik Hyzmaty",
+      "shipAgency": "Gämiler Üçin Agentlik Hyzmaty",
+      "lashingPacking": "Baglama we Gaplama Hyzmatlary",
+      "iorEor": "IOR EOR Logistika Hyzmaty",
+      "valueAdded": "Üstünlikli Logistika Hyzmatlary",
+      "itSolutions": "Integrirlenen IT Ulgam Çözümleri",
+      "dangerousGoods": "Howply Harytlaryň Ambarlanmagy we Gatnawy"
+    },
+    "copyrightLine1": "Bütün hukuklar goralan. Awtorlyk hukugy",
+    "copyrightLine2": "tarapyndan"
+  }
+}

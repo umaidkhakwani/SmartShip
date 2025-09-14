@@ -1,0 +1,115 @@
+CREATE TABLE breakbulk_quotes (
+    id INT AUTO_INCREMENT PRIMARY KEY, -- Primary key for unique identification
+    full_name VARCHAR(255) NOT NULL, -- Full name of the user
+    email VARCHAR(255) NOT NULL, -- User's email address
+    phone_number VARCHAR(20), -- Phone number (optional)
+    company_name VARCHAR(255), -- Name of the company (optional)
+    origin_port VARCHAR(255) NOT NULL, -- Origin port of the shipment
+    destination_port VARCHAR(255) NOT NULL, -- Destination port of the shipment
+    commodity_value DECIMAL(15, 2), -- Value of the commodity (e.g., 9999999.99)
+    gross_weight DECIMAL(10, 2), -- Gross weight (e.g., 999999.99)
+    length DECIMAL(10, 2), -- Length of the cargo (e.g., 999999.99)
+    width DECIMAL(10, 2), -- Width of the cargo (e.g., 999999.99)
+    height DECIMAL(10, 2), -- Height of the cargo (e.g., 999999.99)
+    number_of_packages INT, -- Number of packages
+    package_type VARCHAR(255), -- Type of packaging (e.g., boxes, pallets)
+    comments TEXT, -- Comments or additional notes
+    commodity VARCHAR(255), -- Type of commodity
+    weight_unit VARCHAR(10), -- Unit of weight (e.g., kg, lb)
+    add_insurance BOOLEAN DEFAULT FALSE, -- Whether insurance is added
+    unit_type VARCHAR(255), -- Type of unit (e.g., pieces, crates)
+    mode VARCHAR(255), -- Mode of transport (e.g., sea, air, road)
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP, -- Timestamp for when the entry is created
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP -- Timestamp for when the entry is updated
+);
+
+CREATE TABLE IF NOT EXISTS project_cargo_heavy_lift_quotes (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    full_name VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL,
+    phone_number VARCHAR(15) DEFAULT NULL,
+    company_name VARCHAR(255) DEFAULT NULL,
+    origin_port VARCHAR(255) NOT NULL,
+    destination_port VARCHAR(255) NOT NULL,
+    commodity_value DECIMAL(10, 2) DEFAULT NULL,
+    gross_weight DECIMAL(10, 2) DEFAULT NULL,
+    length DECIMAL(10, 2) DEFAULT NULL,
+    width DECIMAL(10, 2) DEFAULT NULL,
+    height DECIMAL(10, 2) DEFAULT NULL,
+    number_of_packages INT DEFAULT NULL,
+    package_type VARCHAR(255) DEFAULT NULL,
+    comments TEXT DEFAULT NULL,
+    commodity VARCHAR(255) NOT NULL,
+    weight_unit VARCHAR(20) DEFAULT NULL,
+    add_insurance BOOLEAN DEFAULT FALSE,
+    unit_type VARCHAR(50) DEFAULT NULL,
+    mode VARCHAR(50) DEFAULT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+);
+
+CREATE TABLE IF NOT EXISTS truck_quotes (
+    id INT AUTO_INCREMENT PRIMARY KEY, -- Primary key for unique identification
+    full_name VARCHAR(255) NOT NULL, -- Full name of the user
+    email VARCHAR(255) NOT NULL, -- User's email address
+    phone_number VARCHAR(20), -- Phone number (optional)
+    company_name VARCHAR(255), -- Name of the company (optional)
+    international BOOLEAN, -- Whether the shipment is international
+    origin_port VARCHAR(255) NOT NULL, -- Origin port of the shipment
+    destination_port VARCHAR(255) NOT NULL, -- Destination port of the shipment
+    commodity_value DECIMAL(15, 2), -- Value of the commodity
+    gross_weight DECIMAL(10, 2), -- Gross weight
+    length DECIMAL(10, 2), -- Length of the cargo
+    width DECIMAL(10, 2), -- Width of the cargo
+    height DECIMAL(10, 2), -- Height of the cargo
+    number_of_packages INT, -- Number of packages
+    package_type VARCHAR(255), -- Type of packaging (e.g., boxes, pallets)
+    refrigerated_temperature DECIMAL(10, 2), -- Refrigerated temperature (optional)
+    mco_class_un_number VARCHAR(255), -- MCO class UN number (optional)
+    comments TEXT, -- Comments or additional notes
+    commodity VARCHAR(255) NOT NULL, -- Type of commodity
+    load_type VARCHAR(255), -- Type of load (e.g., full truckload, less-than-truckload)
+    container_type VARCHAR(255), -- Type of container (if applicable)
+    weight_unit VARCHAR(10), -- Unit of weight (e.g., kg, lb)
+    refrigerated BOOLEAN DEFAULT FALSE, -- Whether refrigerated transport is required
+    residential_pickup BOOLEAN DEFAULT FALSE, -- Whether residential pickup is required
+    residential_delivery BOOLEAN DEFAULT FALSE, -- Whether residential delivery is required
+    customs_in_bond_freight BOOLEAN DEFAULT FALSE, -- Whether customs in-bond freight is required
+    hazardous_shipment BOOLEAN DEFAULT FALSE, -- Whether hazardous shipment is required
+    inside_limited_access_pickup BOOLEAN DEFAULT FALSE, -- Whether inside/limited access pickup is required
+    inside_limited_access_delivery BOOLEAN DEFAULT FALSE, -- Whether inside/limited access delivery is required
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP, -- Timestamp for when the entry is created
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP -- Timestamp for when the entry is updated
+);
+
+ALTER TABLE  `truck_quotes` 
+ADD COLUMN flatbed BOOLEAN DEFAULT FALSE AFTER refrigerated;
+
+ALTER TABLE truck_quotes
+ADD origin_country VARCHAR(255) NOT NULL AFTER destination_port,
+ADD destination_country VARCHAR(255) NOT NULL AFTER origin_country;
+
+
+CREATE TABLE air_quotes (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    full_name VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL,
+    phone_number VARCHAR(15) NOT NULL,
+    company_name VARCHAR(255),
+    origin_port VARCHAR(255) NOT NULL,
+    destination_port VARCHAR(255) NOT NULL,
+    commodity_value DECIMAL(10, 2) NOT NULL,
+    gross_weight DECIMAL(10, 2) NOT NULL,
+    length DECIMAL(10, 2),
+    width DECIMAL(10, 2),
+    height DECIMAL(10, 2),
+    number_of_packages INT NOT NULL,
+    package_type VARCHAR(100),
+    comments TEXT,
+    commodity VARCHAR(255) NOT NULL,
+    weight_unit VARCHAR(10) NOT NULL,
+    add_insurance BOOLEAN DEFAULT FALSE,
+    incoterms VARCHAR(100),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+);

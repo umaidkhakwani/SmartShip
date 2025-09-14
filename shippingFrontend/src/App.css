@@ -1,0 +1,50 @@
+/* Center the icon inside its parent (anchor tag) */
+.aa {
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center; /* Centers vertically */
+  width: 50px;
+  height: 50px;
+  text-decoration: none; /* Removes any default underline */
+}
+
+/* Floating buttons container */
+.floating-buttons {
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  display: flex;
+  flex-direction: column; /* Stacks the icons vertically */
+  gap: 10px; /* Space between the icons */
+  z-index: 9999;
+}
+
+/* Individual icon styling */
+.floating-icon {
+  background-color: #25d366; /* WhatsApp color */
+  border-radius: 50%; /* Makes the icon circular */
+  padding: 10px; /* Adds space around the icon */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
+  transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+/* Call button styling */
+.floating-icon.call {
+  background-color: #007bff; /* Call button color */
+}
+
+/* Hover effect for WhatsApp icon */
+.floating-icon:hover {
+  background-color: #128c7e; /* WhatsApp hover color */
+}
+
+/* Hover effect for Call icon */
+.floating-icon.call:hover {
+  background-color: #0056b3; /* Call hover color */
+}
+
+/* Icon size */
+.floating-icon i {
+  color: white;
+  font-size: 30px; /* Adjust the icon size */
+}
